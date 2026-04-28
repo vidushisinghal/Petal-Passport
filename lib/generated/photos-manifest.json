@@ -1,0 +1,3485 @@
+{
+  "ooty-roses": {
+    "heroCredit": {
+      "photographer": "Haryad photography",
+      "photographerUrl": "https://unsplash.com/@haryad",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-rose-in-bloom-during-daytime-H39xgbER0u0",
+      "unsplashId": "H39xgbER0u0"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Nik A.",
+        "photographerUrl": "https://unsplash.com/@astasnik",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-red-and-pink-flowers-Nl7mFUej5hE",
+        "unsplashId": "Nl7mFUej5hE"
+      },
+      {
+        "photographer": "Anastasiya D",
+        "photographerUrl": "https://unsplash.com/@vasilechak",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-pink-and-white-flowers-qH_clEXM7gM",
+        "unsplashId": "qH_clEXM7gM"
+      },
+      {
+        "photographer": "Andy Kennedy",
+        "photographerUrl": "https://unsplash.com/@packetdiscards",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-pink-rose-with-green-leaves-x8_XnYXRrDk",
+        "unsplashId": "x8_XnYXRrDk"
+      },
+      {
+        "photographer": "Sirav Talwar",
+        "photographerUrl": "https://unsplash.com/@sirav",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-beautiful-pink-rose-in-full-bloom-4RcPkHPU3W4",
+        "unsplashId": "4RcPkHPU3W4"
+      },
+      {
+        "photographer": "Magda Smolen",
+        "photographerUrl": "https://unsplash.com/@magda_smolen",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-roses-in-bloom-during-daytime-zR5CruJXXNo",
+        "unsplashId": "zR5CruJXXNo"
+      },
+      {
+        "photographer": "Andra C Taylor Jr",
+        "photographerUrl": "https://unsplash.com/@taylormadeglobal",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-red-rose-is-blooming-in-a-garden-k53LO06TlIE",
+        "unsplashId": "k53LO06TlIE"
+      }
+    ],
+    "query": "Roses Ooty Rose Garden",
+    "fetchedAt": "2026-04-24T15:50:47.742Z"
+  },
+  "taiwan-cherry": {
+    "heroCredit": {
+      "photographer": "Cecelia Chang",
+      "photographerUrl": "https://unsplash.com/@ceceliaccc",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-woman-standing-on-the-side-of-a-road-next-to-a-bus-TSBViStX4HM",
+      "unsplashId": "TSBViStX4HM"
+    },
+    "galleryCredits": [],
+    "query": "Cherry Blossoms Yangmingshan",
+    "fetchedAt": "2026-04-24T15:50:48.898Z"
+  },
+  "rio-ipe": {
+    "heroCredit": {
+      "photographer": "Matias Welschen",
+      "photographerUrl": "https://unsplash.com/@velyen",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-man-in-an-orange-vest-is-taking-a-picture-of-a-crowded-beach-Xm2CJp1n-B0",
+      "unsplashId": "Xm2CJp1n-B0"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Leandro Pereira",
+        "photographerUrl": "https://unsplash.com/@leandrojmp",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-trees-near-body-of-water-during-daytime-SlCB7L_0Ev8",
+        "unsplashId": "SlCB7L_0Ev8"
+      },
+      {
+        "photographer": "Elise Lainé",
+        "photographerUrl": "https://unsplash.com/@eliselaine",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-a-beach-B7vRYk1GTcQ",
+        "unsplashId": "B7vRYk1GTcQ"
+      },
+      {
+        "photographer": "Elise Lainé",
+        "photographerUrl": "https://unsplash.com/@eliselaine",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-man-riding-a-bike-down-a-hill-next-to-a-body-of-water-zxq1Ztk648g",
+        "unsplashId": "zxq1Ztk648g"
+      },
+      {
+        "photographer": "Gustavo Sánchez",
+        "photographerUrl": "https://unsplash.com/@gustavo0351",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/sugarloaf-mountain-and-guanabara-bay-at-sunset-V5Ki6RAxwq0",
+        "unsplashId": "V5Ki6RAxwq0"
+      },
+      {
+        "photographer": "Diego Costa",
+        "photographerUrl": "https://unsplash.com/@diegocoxta",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/sugarloaf-mountain-overlooking-guanabara-bay-rio-de-janeiro-P40XjykprjM",
+        "unsplashId": "P40XjykprjM"
+      },
+      {
+        "photographer": "Tom Wheatley",
+        "photographerUrl": "https://unsplash.com/@mikeballet",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/people-on-mountain-near-body-of-water-XQqOyX-qbOE",
+        "unsplashId": "XQqOyX-qbOE"
+      }
+    ],
+    "query": "Ipê Amarelo Rio de Janeiro",
+    "fetchedAt": "2026-04-24T15:50:55.491Z"
+  },
+  "mallorca-almond": {
+    "heroCredit": {
+      "photographer": "Eugene Zhyvchik",
+      "photographerUrl": "https://unsplash.com/@eugenezhyvchik",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/green-trees-on-brown-soil-during-daytime-0gSDK91vbjI",
+      "unsplashId": "0gSDK91vbjI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Monika Guzikowska",
+        "photographerUrl": "https://unsplash.com/@monik_guzik",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-couple-of-people-that-are-walking-down-a-street-fkNjNh6CyeA",
+        "unsplashId": "fkNjNh6CyeA"
+      },
+      {
+        "photographer": "Víctor Manuel Lázaro Cortés",
+        "photographerUrl": "https://unsplash.com/@vimalazcor",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-orchard-with-a-distant-mountain-under-blue-sky-JCkLLO87Bsc",
+        "unsplashId": "JCkLLO87Bsc"
+      },
+      {
+        "photographer": "Mario Klassen",
+        "photographerUrl": "https://unsplash.com/@marioklassen",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/houses-near-trees-FBssoMfcWJQ",
+        "unsplashId": "FBssoMfcWJQ"
+      },
+      {
+        "photographer": "Quentin Burbach",
+        "photographerUrl": "https://unsplash.com/@quentinburbach",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/small-light-purple-flowers-on-a-bush-UYWJxgsz3cg",
+        "unsplashId": "UYWJxgsz3cg"
+      }
+    ],
+    "query": "Almond Blossoms Mallorca",
+    "fetchedAt": "2026-04-24T15:51:02.691Z"
+  },
+  "kawazu-cherry": {
+    "heroCredit": {
+      "photographer": "kuu akura",
+      "photographerUrl": "https://unsplash.com/@akurakuu",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/delicate-pink-cherry-blossoms-bloom-on-a-tree-branch-U1Pih9Y7xLs",
+      "unsplashId": "U1Pih9Y7xLs"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Nolla",
+        "photographerUrl": "https://unsplash.com/@nolla_photos",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-tree-with-pink-flowers-near-a-river-SYx2BjgsQUE",
+        "unsplashId": "SYx2BjgsQUE"
+      },
+      {
+        "photographer": "Nolla",
+        "photographerUrl": "https://unsplash.com/@nolla_photos",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-river-surrounded-by-pink-flowers-and-trees-gD75gO13MvI",
+        "unsplashId": "gD75gO13MvI"
+      },
+      {
+        "photographer": "Nopparuj Lamaikul",
+        "photographerUrl": "https://unsplash.com/@center999",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-branch-of-a-tree-with-pink-flowers-EQwv9hO9b4o",
+        "unsplashId": "EQwv9hO9b4o"
+      },
+      {
+        "photographer": "Nolla",
+        "photographerUrl": "https://unsplash.com/@nolla_photos",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-river-with-rocks-and-pink-flowers-on-it-DrWHHIs5ev0",
+        "unsplashId": "DrWHHIs5ev0"
+      },
+      {
+        "photographer": "Nolla",
+        "photographerUrl": "https://unsplash.com/@nolla_photos",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-tree-with-a-bunch-of-pink-flowers-on-it-FikI22bw46M",
+        "unsplashId": "FikI22bw46M"
+      },
+      {
+        "photographer": "Nolla",
+        "photographerUrl": "https://unsplash.com/@nolla_photos",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-river-running-through-a-lush-green-countryside-5eWoTV5uHRU",
+        "unsplashId": "5eWoTV5uHRU"
+      }
+    ],
+    "query": "Early Cherry Blossoms Kawazu",
+    "fetchedAt": "2026-04-24T15:51:12.962Z"
+  },
+  "vietnam-cherry": {
+    "heroCredit": {
+      "photographer": "Quang Nguyen Vinh",
+      "photographerUrl": "https://unsplash.com/@quangpraha",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-group-of-people-standing-next-to-a-pink-tree-9fiqIQevwwo",
+      "unsplashId": "9fiqIQevwwo"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Jerry Chin",
+        "photographerUrl": "https://unsplash.com/@metrxqin",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-berries-hanging-from-a-tree-boB6GHFLYZ8",
+        "unsplashId": "boB6GHFLYZ8"
+      },
+      {
+        "photographer": "Yuri Carneiro",
+        "photographerUrl": "https://unsplash.com/@yurikram",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-pile-of-red-cherries-sitting-next-to-each-other-HPKO4lccqRQ",
+        "unsplashId": "HPKO4lccqRQ"
+      },
+      {
+        "photographer": "Niloofar Bdl",
+        "photographerUrl": "https://unsplash.com/@niloofar_b1991",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/red-round-fruit-in-tilt-shift-lens-uQ4s_f5WAbg",
+        "unsplashId": "uQ4s_f5WAbg"
+      },
+      {
+        "photographer": "Yaqing Wei",
+        "photographerUrl": "https://unsplash.com/@yunwuwanzi",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-berries-hanging-from-a-tree-branch-RTmacXqabH0",
+        "unsplashId": "RTmacXqabH0"
+      },
+      {
+        "photographer": "mik scho",
+        "photographerUrl": "https://unsplash.com/@mishoko",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-some-fruit-7eHs0BOzdF8",
+        "unsplashId": "7eHs0BOzdF8"
+      },
+      {
+        "photographer": "solomon raj",
+        "photographerUrl": "https://unsplash.com/@sjamesfx",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-dirt-road-surrounded-by-trees-with-pink-flowers-SX1b6DS3zXg",
+        "unsplashId": "SX1b6DS3zXg"
+      }
+    ],
+    "query": "Wild Himalayan Cherry Da Lat",
+    "fetchedAt": "2026-04-24T15:51:21.481Z"
+  },
+  "hawaii-plumeria": {
+    "heroCredit": {
+      "photographer": "Cemre Akçal",
+      "photographerUrl": "https://unsplash.com/@cemreakcall",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-bunch-of-white-and-yellow-flowers-with-green-leaves-0IZk15Hx82Q",
+      "unsplashId": "0IZk15Hx82Q"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Gina Ball",
+        "photographerUrl": "https://unsplash.com/@ginaleonore",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-and-yellow-flower-in-tilt-shift-lens-LuPC06IpyCA",
+        "unsplashId": "LuPC06IpyCA"
+      },
+      {
+        "photographer": "Eleonora Patricola",
+        "photographerUrl": "https://unsplash.com/@ele1010",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-5-petaled-flower-on-brown-sand-beach-kfXWK5OT9Bk",
+        "unsplashId": "kfXWK5OT9Bk"
+      },
+      {
+        "photographer": "pisauikan",
+        "photographerUrl": "https://unsplash.com/@pisauikan",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-7bQXX_WG6O8",
+        "unsplashId": "7bQXX_WG6O8"
+      },
+      {
+        "photographer": "Everton Perigo",
+        "photographerUrl": "https://unsplash.com/@evertonesp",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-some-flowers-BOg0fCdM3Bc",
+        "unsplashId": "BOg0fCdM3Bc"
+      },
+      {
+        "photographer": "hartono subagio",
+        "photographerUrl": "https://unsplash.com/@hsbg99",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-white-flower-in-close-up-photography-WcmZumbXfaw",
+        "unsplashId": "WcmZumbXfaw"
+      },
+      {
+        "photographer": "Nikhil Sachan",
+        "photographerUrl": "https://unsplash.com/@nikhil_sachan",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-white-and-yellow-flowers-on-a-tree-Ahh-BpyGA6U",
+        "unsplashId": "Ahh-BpyGA6U"
+      }
+    ],
+    "query": "Plumeria",
+    "fetchedAt": "2026-04-25T03:43:09.252Z"
+  },
+  "mexico-dahlia": {
+    "heroCredit": {
+      "photographer": "catrina farrell",
+      "photographerUrl": "https://unsplash.com/@xiao_mao38",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-and-white-floral-decor-79Qa_Zr-iEs",
+      "unsplashId": "79Qa_Zr-iEs"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Timo C. Dinger",
+        "photographerUrl": "https://unsplash.com/@tcdinger",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-in-tilt-shift-lens-GjQ9mpJg4OQ",
+        "unsplashId": "GjQ9mpJg4OQ"
+      },
+      {
+        "photographer": "Sara McMurray",
+        "photographerUrl": "https://unsplash.com/@saramac",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-in-clear-glass-vase-yu326pwy9i0",
+        "unsplashId": "yu326pwy9i0"
+      },
+      {
+        "photographer": "Lynnelle Cleveland",
+        "photographerUrl": "https://unsplash.com/@lynnelle",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-white-flowers-on-white-wall-KSu972ZVzk4",
+        "unsplashId": "KSu972ZVzk4"
+      },
+      {
+        "photographer": "Irina Iriser",
+        "photographerUrl": "https://unsplash.com/@iriser",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/selective-focus-photo-of-pink-petaled-flowers-mNz9Pa3tz34",
+        "unsplashId": "mNz9Pa3tz34"
+      },
+      {
+        "photographer": "Madara",
+        "photographerUrl": "https://unsplash.com/@madara_p",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-pink-flowers-with-green-leaves-7TMun_z_mq4",
+        "unsplashId": "7TMun_z_mq4"
+      },
+      {
+        "photographer": "Ana Vicente",
+        "photographerUrl": "https://unsplash.com/@bumbadabumruum",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flower-in-tilt-shift-lens-W9bJCirkREE",
+        "unsplashId": "W9bJCirkREE"
+      }
+    ],
+    "query": "Dahlias",
+    "fetchedAt": "2026-04-25T03:43:17.388Z"
+  },
+  "antelope-poppies": {
+    "heroCredit": {
+      "photographer": "Spencer DeMera",
+      "photographerUrl": "https://unsplash.com/@spencer_demera",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-field-of-orange-flowers-with-a-blue-sky-in-the-background-UJ6UjlGRJPw",
+      "unsplashId": "UJ6UjlGRJPw"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Pamela Heckel",
+        "photographerUrl": "https://unsplash.com/@pamelaheckel",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-petaled-flower-field-photography-blBcRs-WSdM",
+        "unsplashId": "blBcRs-WSdM"
+      },
+      {
+        "photographer": "Mike Ostrovsky",
+        "photographerUrl": "https://unsplash.com/@mostrovsky",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-petaled-flower-field-bCaDIODrT-A",
+        "unsplashId": "bCaDIODrT-A"
+      },
+      {
+        "photographer": "Levi Meir Clancy",
+        "photographerUrl": "https://unsplash.com/@levimeirclancy",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-body-of-water-dZKJRG6x1A0",
+        "unsplashId": "dZKJRG6x1A0"
+      },
+      {
+        "photographer": "Martha E",
+        "photographerUrl": "https://unsplash.com/@marthagreenery",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/orange-flower-field-near-sea-under-blue-sky-during-daytime--MvEJ62qqg8",
+        "unsplashId": "-MvEJ62qqg8"
+      },
+      {
+        "photographer": "Don Starkey",
+        "photographerUrl": "https://unsplash.com/@dmdk66",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-orange-flowers-under-a-blue-sky-T4k4NxlfPOs",
+        "unsplashId": "T4k4NxlfPOs"
+      },
+      {
+        "photographer": "Don Starkey",
+        "photographerUrl": "https://unsplash.com/@dmdk66",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-orange-flowers-with-mountains-in-the-background-q1GTocxay3Y",
+        "unsplashId": "q1GTocxay3Y"
+      }
+    ],
+    "query": "California Poppies",
+    "fetchedAt": "2026-04-25T03:43:34.978Z"
+  },
+  "carlsbad-ranunculus": {
+    "heroCredit": {
+      "photographer": "micheile henderson",
+      "photographerUrl": "https://unsplash.com/@micheile",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-bunch-of-pink-flowers-sitting-in-a-vase-H0lknnRr7cI",
+      "unsplashId": "H0lknnRr7cI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "micheile henderson",
+        "photographerUrl": "https://unsplash.com/@micheile",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-vase-filled-with-pink-and-yellow-flowers-nBLLFbRke-w",
+        "unsplashId": "nBLLFbRke-w"
+      },
+      {
+        "photographer": "micheile henderson",
+        "photographerUrl": "https://unsplash.com/@micheile",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/three-pink-flowers-with-water-droplets-on-them-UFFNxNA5vxQ",
+        "unsplashId": "UFFNxNA5vxQ"
+      },
+      {
+        "photographer": "micheile henderson",
+        "photographerUrl": "https://unsplash.com/@micheile",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-vase-filled-with-pink-and-white-flowers-kOMyWyUj1Kg",
+        "unsplashId": "kOMyWyUj1Kg"
+      },
+      {
+        "photographer": "Jason Sung",
+        "photographerUrl": "https://unsplash.com/@jasonsung",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-white-rose-flower-kp5FXwwZ7T4",
+        "unsplashId": "kp5FXwwZ7T4"
+      },
+      {
+        "photographer": "Alesia Kazantceva",
+        "photographerUrl": "https://unsplash.com/@alesiaskaz",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/close-up-photography-of-white-petaled-flowers-RON42jeukYc",
+        "unsplashId": "RON42jeukYc"
+      },
+      {
+        "photographer": "Earl Wilcox",
+        "photographerUrl": "https://unsplash.com/@earl_plannerzone",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-couple-of-vases-that-have-flowers-in-them-9t9T_BRdfZ8",
+        "unsplashId": "9t9T_BRdfZ8"
+      }
+    ],
+    "query": "Ranunculus",
+    "fetchedAt": "2026-04-25T03:43:45.028Z"
+  },
+  "canary-almond": {
+    "heroCredit": {
+      "photographer": "Katlyn Boone",
+      "photographerUrl": "https://unsplash.com/@katlynboone",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/white-cherry-blossom-under-blue-sky-during-daytime-sRt3zQzLLKg",
+      "unsplashId": "sRt3zQzLLKg"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Doriana Popa",
+        "photographerUrl": "https://unsplash.com/@ibreathart",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-on-a-tree-branch-UzG4oftlJCU",
+        "unsplashId": "UzG4oftlJCU"
+      },
+      {
+        "photographer": "Doriana Popa",
+        "photographerUrl": "https://unsplash.com/@ibreathart",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-branch-of-a-cherry-blossom-tree-with-the-moon-in-the-background-ApawNtCDSng",
+        "unsplashId": "ApawNtCDSng"
+      },
+      {
+        "photographer": "Georg Eiermann",
+        "photographerUrl": "https://unsplash.com/@georgeiermann",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-flowers-blooming-on-a-tree-with-a-blue-sky-in-the-background-mNdbDyFYHRA",
+        "unsplashId": "mNdbDyFYHRA"
+      }
+    ],
+    "query": "Almond Blossoms",
+    "fetchedAt": "2026-04-25T06:20:15.688Z"
+  },
+  "maldives-water-lily": {
+    "heroCredit": {
+      "photographer": "Xuan Nguyen",
+      "photographerUrl": "https://unsplash.com/@darthxuan",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-lotus-flowers-v6V-hfxjboI",
+      "unsplashId": "v6V-hfxjboI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Jason Sung",
+        "photographerUrl": "https://unsplash.com/@jasonsung",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-lotus-flowers-on-body-of-water-n2qLrhEB5Ps",
+        "unsplashId": "n2qLrhEB5Ps"
+      },
+      {
+        "photographer": "Orkhan Farmanli",
+        "photographerUrl": "https://unsplash.com/@orkhanfarmanli",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/waterlilies-during-daytime-BekDDAMRdTY",
+        "unsplashId": "BekDDAMRdTY"
+      },
+      {
+        "photographer": "Brigitte Elsner",
+        "photographerUrl": "https://unsplash.com/@bel_media",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-white-and-yellow-water-lily-in-a-pond-ioxYSE5CFpI",
+        "unsplashId": "ioxYSE5CFpI"
+      }
+    ],
+    "query": "Water Lilies",
+    "fetchedAt": "2026-04-25T06:20:22.220Z"
+  },
+  "luoping-canola": {
+    "heroCredit": {
+      "photographer": "MAK",
+      "photographerUrl": "https://unsplash.com/@mak_jp",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/yellow-petaled-flower-2YjZZXkiQsY",
+      "unsplashId": "2YjZZXkiQsY"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Denes Kozma",
+        "photographerUrl": "https://unsplash.com/@deneskozma",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-flower-field-under-blue-sky-during-daytime-RV04GmYRlzw",
+        "unsplashId": "RV04GmYRlzw"
+      },
+      {
+        "photographer": "Denes Kozma",
+        "photographerUrl": "https://unsplash.com/@deneskozma",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-flower-field-during-daytime-8Ud1b6skE8k",
+        "unsplashId": "8Ud1b6skE8k"
+      },
+      {
+        "photographer": "Denes Kozma",
+        "photographerUrl": "https://unsplash.com/@deneskozma",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-flower-field-under-blue-sky-during-daytime-IAkqIgTYkHI",
+        "unsplashId": "IAkqIgTYkHI"
+      }
+    ],
+    "query": "Canola",
+    "fetchedAt": "2026-04-25T06:20:26.329Z"
+  },
+  "korea-plum": {
+    "heroCredit": {
+      "photographer": "Bao Lei",
+      "photographerUrl": "https://unsplash.com/@baolei",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-bunch-of-flowers-that-are-on-a-tree-vcSF-50Uwdc",
+      "unsplashId": "vcSF-50Uwdc"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Lyn C",
+        "photographerUrl": "https://unsplash.com/@tikyon",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/selective-focus-photo-of-white-flower-Ql_H_Y7r1qw",
+        "unsplashId": "Ql_H_Y7r1qw"
+      },
+      {
+        "photographer": "David Brooke Martin",
+        "photographerUrl": "https://unsplash.com/@dbmartin00",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-moth-orchid-216zjgTj9fg",
+        "unsplashId": "216zjgTj9fg"
+      },
+      {
+        "photographer": "Cory Curtis",
+        "photographerUrl": "https://unsplash.com/@lifesevents",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/macro-photography-of-blooming-pink-cherry-blossoms-ABHnyDoe5sA",
+        "unsplashId": "ABHnyDoe5sA"
+      }
+    ],
+    "query": "Plum Blossoms",
+    "fetchedAt": "2026-04-25T06:20:30.237Z"
+  },
+  "south-africa-frangipani": {
+    "heroCredit": {
+      "photographer": "Colin Watts",
+      "photographerUrl": "https://unsplash.com/@colinwatts",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-group-of-white-and-yellow-flowers-with-water-droplets-on-them-COfpD4or4o8",
+      "unsplashId": "COfpD4or4o8"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Lukas Stoermer",
+        "photographerUrl": "https://unsplash.com/@lukassto",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-and-yellow-flower-in-macro-shot-2B28K1DksyM",
+        "unsplashId": "2B28K1DksyM"
+      },
+      {
+        "photographer": "Ermelinda Martín",
+        "photographerUrl": "https://unsplash.com/@emeritte82",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-RFXsimkOEHs",
+        "unsplashId": "RFXsimkOEHs"
+      },
+      {
+        "photographer": "pisauikan",
+        "photographerUrl": "https://unsplash.com/@pisauikan",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-7bQXX_WG6O8",
+        "unsplashId": "7bQXX_WG6O8"
+      }
+    ],
+    "query": "Frangipani",
+    "fetchedAt": "2026-04-25T06:20:34.072Z"
+  },
+  "dc-cherry": {
+    "heroCredit": {
+      "photographer": "AJ",
+      "photographerUrl": "https://unsplash.com/@ajny",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-flowers-McsNra2VRQQ",
+      "unsplashId": "McsNra2VRQQ"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Mark Tegethoff",
+        "photographerUrl": "https://unsplash.com/@tegethoff",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/body-of-water-beside-cherry-blossom-trees-NMLv5HQZnK4",
+        "unsplashId": "NMLv5HQZnK4"
+      },
+      {
+        "photographer": "David Brooke Martin",
+        "photographerUrl": "https://unsplash.com/@dbmartin00",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-petaled-flower-lFTtQqVfx6g",
+        "unsplashId": "lFTtQqVfx6g"
+      },
+      {
+        "photographer": "Tatiana Rodriguez",
+        "photographerUrl": "https://unsplash.com/@tata186",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/cherry-blossom-5bXUxtRXi8w",
+        "unsplashId": "5bXUxtRXi8w"
+      }
+    ],
+    "query": "Cherry Blossoms",
+    "fetchedAt": "2026-04-25T06:20:37.452Z"
+  },
+  "keukenhof": {
+    "heroCredit": {
+      "photographer": "Esther Gorlee",
+      "photographerUrl": "https://unsplash.com/@esthergrl1",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/red-tulip-flowers-under-calm-blue-sky--uGmFjqkHFU",
+      "unsplashId": "-uGmFjqkHFU"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Ioann-Mark Kuznietsov",
+        "photographerUrl": "https://unsplash.com/@mrrrk_smith",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/assorted-flowers-eHlVZcSrjfg",
+        "unsplashId": "eHlVZcSrjfg"
+      },
+      {
+        "photographer": "Giu Vicente",
+        "photographerUrl": "https://unsplash.com/@giuvicente",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/depth-photography-of-pink-and-yellow-tulip-flowers-Q_SKLnop3Nc",
+        "unsplashId": "Q_SKLnop3Nc"
+      },
+      {
+        "photographer": "krystina rogers",
+        "photographerUrl": "https://unsplash.com/@krystina_elise",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/assorted-flowers-in-macro-shot-photography-during-daytime-5aXEo-hGwU0",
+        "unsplashId": "5aXEo-hGwU0"
+      }
+    ],
+    "query": "Tulips",
+    "fetchedAt": "2026-04-25T06:20:38.953Z"
+  },
+  "lisse-hyacinths": {
+    "heroCredit": {
+      "photographer": "Joshua J. Cotten",
+      "photographerUrl": "https://unsplash.com/@jcotten",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/purple-and-white-flowers-during-daytime-MF1hAg0IoeU",
+      "unsplashId": "MF1hAg0IoeU"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Tasha k",
+        "photographerUrl": "https://unsplash.com/@hyka",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-pink-flowers-with-green-leaves-kNhMYPUOhX0",
+        "unsplashId": "kNhMYPUOhX0"
+      },
+      {
+        "photographer": "Tasha k",
+        "photographerUrl": "https://unsplash.com/@hyka",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-purple-flowers-with-green-leaves-6DbEask3-ac",
+        "unsplashId": "6DbEask3-ac"
+      },
+      {
+        "photographer": "Nikita Turkovich",
+        "photographerUrl": "https://unsplash.com/@nt_studio",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-vase-with-flowers-on-a-table-UGrQ2b58sok",
+        "unsplashId": "UGrQ2b58sok"
+      }
+    ],
+    "query": "Hyacinths",
+    "fetchedAt": "2026-04-25T06:20:43.138Z"
+  },
+  "jinhae-cherry": {
+    "heroCredit": {
+      "photographer": "AJ",
+      "photographerUrl": "https://unsplash.com/@ajny",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-flowers-McsNra2VRQQ",
+      "unsplashId": "McsNra2VRQQ"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Mark Tegethoff",
+        "photographerUrl": "https://unsplash.com/@tegethoff",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/body-of-water-beside-cherry-blossom-trees-NMLv5HQZnK4",
+        "unsplashId": "NMLv5HQZnK4"
+      },
+      {
+        "photographer": "David Brooke Martin",
+        "photographerUrl": "https://unsplash.com/@dbmartin00",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-petaled-flower-lFTtQqVfx6g",
+        "unsplashId": "lFTtQqVfx6g"
+      },
+      {
+        "photographer": "Tatiana Rodriguez",
+        "photographerUrl": "https://unsplash.com/@tata186",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/cherry-blossom-5bXUxtRXi8w",
+        "unsplashId": "5bXUxtRXi8w"
+      }
+    ],
+    "query": "Cherry Blossoms",
+    "fetchedAt": "2026-04-25T06:20:44.386Z"
+  },
+  "morocco-roses": {
+    "heroCredit": {
+      "photographer": "Nikita Tikhomirov",
+      "photographerUrl": "https://unsplash.com/@niki_mir",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/bed-of-red-roses-in-bloom-dv7cSiHurKM",
+      "unsplashId": "dv7cSiHurKM"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Biel Morro",
+        "photographerUrl": "https://unsplash.com/@bielmorro",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/red-rose-flowers-kcKiBcDTJt4",
+        "unsplashId": "kcKiBcDTJt4"
+      },
+      {
+        "photographer": "Reanimated Man X",
+        "photographerUrl": "https://unsplash.com/@reanimatedmanx",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-rose-usCacia78zI",
+        "unsplashId": "usCacia78zI"
+      },
+      {
+        "photographer": "Waldemar Brandt",
+        "photographerUrl": "https://unsplash.com/@waldemarbrandt67w",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/orange-red-and-pink-rose-flower-sycOtFg3SBc",
+        "unsplashId": "sycOtFg3SBc"
+      }
+    ],
+    "query": "Roses",
+    "fetchedAt": "2026-04-25T07:22:51.347Z"
+  },
+  "japan-wisteria": {
+    "heroCredit": {
+      "photographer": "Aki",
+      "photographerUrl": "https://unsplash.com/@aki_",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/purple-flowers-in-tilt-shift-lens-DHWnugCQly0",
+      "unsplashId": "DHWnugCQly0"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Aki",
+        "photographerUrl": "https://unsplash.com/@aki_",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flowers-in-forest-during-daytime-qaoHG7MLV-0",
+        "unsplashId": "qaoHG7MLV-0"
+      },
+      {
+        "photographer": "Annie Spratt",
+        "photographerUrl": "https://unsplash.com/@anniespratt",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-trees-during-daytime-8EF_olB_IwE",
+        "unsplashId": "8EF_olB_IwE"
+      },
+      {
+        "photographer": "Annie Spratt",
+        "photographerUrl": "https://unsplash.com/@anniespratt",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-wisteria-flowering-tree-_9LPbygnDJM",
+        "unsplashId": "_9LPbygnDJM"
+      }
+    ],
+    "query": "Wisteria",
+    "fetchedAt": "2026-04-25T07:22:58.891Z"
+  },
+  "texas-bluebonnets": {
+    "heroCredit": {
+      "photographer": "Matthew Lancaster",
+      "photographerUrl": "https://unsplash.com/@matthewelancaster",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/blue-flowers-on-green-grass-field-during-daytime--UdY4SE227U",
+      "unsplashId": "-UdY4SE227U"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Roberta Guillen",
+        "photographerUrl": "https://unsplash.com/@robertaguillen",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/blue-petaled-flowers-under-white-clouds-photo-YPLx5eOy49M",
+        "unsplashId": "YPLx5eOy49M"
+      },
+      {
+        "photographer": "Bryan Dickerson",
+        "photographerUrl": "https://unsplash.com/@txprphan85",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-wooden-fence-in-a-field-of-wildflowers-hCEu98_-IYc",
+        "unsplashId": "hCEu98_-IYc"
+      },
+      {
+        "photographer": "Matthew Lancaster",
+        "photographerUrl": "https://unsplash.com/@matthewelancaster",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/blue-flowers-with-green-leaves-during-daytime-xUV12yTB6Xs",
+        "unsplashId": "xUV12yTB6Xs"
+      }
+    ],
+    "query": "Bluebonnets",
+    "fetchedAt": "2026-04-25T07:23:05.981Z"
+  },
+  "hitachi-nemophila": {
+    "heroCredit": {
+      "photographer": "naoh cova",
+      "photographerUrl": "https://unsplash.com/@naoh_kova",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/white-flower-field-under-blue-sky-during-daytime-FisJyPwpLDk",
+      "unsplashId": "FisJyPwpLDk"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "naoh cova",
+        "photographerUrl": "https://unsplash.com/@naoh_kova",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/blue-flowers-in-tilt-shift-lens-zDpuefguijI",
+        "unsplashId": "zDpuefguijI"
+      },
+      {
+        "photographer": "sabari nathan",
+        "photographerUrl": "https://unsplash.com/@dsnphotography",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/blue-flowers-with-a-bee-in-the-middle-of-them-Beyo6yQIDNo",
+        "unsplashId": "Beyo6yQIDNo"
+      },
+      {
+        "photographer": "naoh cova",
+        "photographerUrl": "https://unsplash.com/@naoh_kova",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-flower-buds-during-daytime-Jdk4EsoymZc",
+        "unsplashId": "Jdk4EsoymZc"
+      }
+    ],
+    "query": "Nemophila",
+    "fetchedAt": "2026-04-25T07:23:17.263Z"
+  },
+  "istanbul-tulips": {
+    "heroCredit": {
+      "photographer": "Esther Gorlee",
+      "photographerUrl": "https://unsplash.com/@esthergrl1",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/red-tulip-flowers-under-calm-blue-sky--uGmFjqkHFU",
+      "unsplashId": "-uGmFjqkHFU"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Ioann-Mark Kuznietsov",
+        "photographerUrl": "https://unsplash.com/@mrrrk_smith",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/assorted-flowers-eHlVZcSrjfg",
+        "unsplashId": "eHlVZcSrjfg"
+      },
+      {
+        "photographer": "Giu Vicente",
+        "photographerUrl": "https://unsplash.com/@giuvicente",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/depth-photography-of-pink-and-yellow-tulip-flowers-Q_SKLnop3Nc",
+        "unsplashId": "Q_SKLnop3Nc"
+      },
+      {
+        "photographer": "krystina rogers",
+        "photographerUrl": "https://unsplash.com/@krystina_elise",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/assorted-flowers-in-macro-shot-photography-during-daytime-5aXEo-hGwU0",
+        "unsplashId": "5aXEo-hGwU0"
+      }
+    ],
+    "query": "Tulips",
+    "fetchedAt": "2026-04-25T07:23:19.329Z"
+  },
+  "hallerbos-bluebells": {
+    "heroCredit": {
+      "photographer": "Chris Whatley",
+      "photographerUrl": "https://unsplash.com/@chriswah",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/bluebells-in-the-british-countryside-at-spring-time--9eiRQkbZJc",
+      "unsplashId": "-9eiRQkbZJc"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Jez Timms",
+        "photographerUrl": "https://unsplash.com/@jeztimms",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/downright-blue-flowers-ikgmBELD7PQ",
+        "unsplashId": "ikgmBELD7PQ"
+      },
+      {
+        "photographer": "Click and Learn Photography",
+        "photographerUrl": "https://unsplash.com/@clickandlearnphotography",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-petaled-flowers-near-trees-3VBg9zmZUOY",
+        "unsplashId": "3VBg9zmZUOY"
+      },
+      {
+        "photographer": "Jonny Gios",
+        "photographerUrl": "https://unsplash.com/@supergios",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flower-field-during-daytime-rMrYg2lA7b8",
+        "unsplashId": "rMrYg2lA7b8"
+      }
+    ],
+    "query": "Bluebells",
+    "fetchedAt": "2026-04-25T07:23:27.223Z"
+  },
+  "holland-tulip-farm": {
+    "heroCredit": {
+      "photographer": "Esther Gorlee",
+      "photographerUrl": "https://unsplash.com/@esthergrl1",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/red-tulip-flowers-under-calm-blue-sky--uGmFjqkHFU",
+      "unsplashId": "-uGmFjqkHFU"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Ioann-Mark Kuznietsov",
+        "photographerUrl": "https://unsplash.com/@mrrrk_smith",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/assorted-flowers-eHlVZcSrjfg",
+        "unsplashId": "eHlVZcSrjfg"
+      },
+      {
+        "photographer": "Giu Vicente",
+        "photographerUrl": "https://unsplash.com/@giuvicente",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/depth-photography-of-pink-and-yellow-tulip-flowers-Q_SKLnop3Nc",
+        "unsplashId": "Q_SKLnop3Nc"
+      },
+      {
+        "photographer": "krystina rogers",
+        "photographerUrl": "https://unsplash.com/@krystina_elise",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/assorted-flowers-in-macro-shot-photography-during-daytime-5aXEo-hGwU0",
+        "unsplashId": "5aXEo-hGwU0"
+      }
+    ],
+    "query": "Tulips",
+    "fetchedAt": "2026-04-25T07:23:29.988Z"
+  },
+  "china-peony": {
+    "heroCredit": {
+      "photographer": "Cristina Anne Costello",
+      "photographerUrl": "https://unsplash.com/@lightupphotos",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-and-white-flower-in-close-up-photography-F0i_rfDHw74",
+      "unsplashId": "F0i_rfDHw74"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Daiga Ellaby",
+        "photographerUrl": "https://unsplash.com/@daiga_ellaby",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowering-green-outdoor-plant-4qN8yPewMs0",
+        "unsplashId": "4qN8yPewMs0"
+      },
+      {
+        "photographer": "Nic Berlin",
+        "photographerUrl": "https://unsplash.com/@nicberlin",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-bunch-of-pink-flowers-jPD9YpQ_31I",
+        "unsplashId": "jPD9YpQ_31I"
+      },
+      {
+        "photographer": "Daria Gordova",
+        "photographerUrl": "https://unsplash.com/@gordova_photo",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-roses-in-close-up-photography-SS60hRc59Zc",
+        "unsplashId": "SS60hRc59Zc"
+      }
+    ],
+    "query": "Peonies",
+    "fetchedAt": "2026-04-25T07:23:34.190Z"
+  },
+  "greece-wildflowers": {
+    "heroCredit": {
+      "photographer": "Liana Mikah",
+      "photographerUrl": "https://unsplash.com/@lianamikah",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/yellow-and-orange-petaled-flowers-GEgleHw8Cg4",
+      "unsplashId": "GEgleHw8Cg4"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "enrico bet",
+        "photographerUrl": "https://unsplash.com/@henry_be",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/orange-flowers-IicyiaPYGGI",
+        "unsplashId": "IicyiaPYGGI"
+      },
+      {
+        "photographer": "Lee 琴",
+        "photographerUrl": "https://unsplash.com/@leeqin",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/worms-eye-view-of-petaled-flowers-DK7msqOZ9fI",
+        "unsplashId": "DK7msqOZ9fI"
+      },
+      {
+        "photographer": "Annie Spratt",
+        "photographerUrl": "https://unsplash.com/@anniespratt",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/shallow-focus-photography-of-white-flowers-4IqTki_q8KI",
+        "unsplashId": "4IqTki_q8KI"
+      }
+    ],
+    "query": "Wildflowers",
+    "fetchedAt": "2026-04-25T08:25:41.421Z"
+  },
+  "bhutan-rhododendron": {
+    "heroCredit": {
+      "photographer": "Annie Spratt",
+      "photographerUrl": "https://unsplash.com/@anniespratt",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-bush-with-red-flowers-and-green-leaves-Uy6S0BZp41I",
+      "unsplashId": "Uy6S0BZp41I"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Annie Spratt",
+        "photographerUrl": "https://unsplash.com/@anniespratt",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-red-flower-with-green-leaves-around-it-hFJbLRUhFrQ",
+        "unsplashId": "hFJbLRUhFrQ"
+      },
+      {
+        "photographer": "Shoresidelady1",
+        "photographerUrl": "https://unsplash.com/@shoresidelady1",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bush-with-purple-flowers-in-the-middle-of-a-forest-uLI7GxLLEak",
+        "unsplashId": "uLI7GxLLEak"
+      },
+      {
+        "photographer": "Shoresidelady1",
+        "photographerUrl": "https://unsplash.com/@shoresidelady1",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bush-of-pink-flowers-in-a-wooded-area-Dj588IRaq88",
+        "unsplashId": "Dj588IRaq88"
+      }
+    ],
+    "query": "Rhododendrons",
+    "fetchedAt": "2026-04-25T08:25:47.746Z"
+  },
+  "portland-roses": {
+    "heroCredit": {
+      "photographer": "Nikita Tikhomirov",
+      "photographerUrl": "https://unsplash.com/@niki_mir",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/bed-of-red-roses-in-bloom-dv7cSiHurKM",
+      "unsplashId": "dv7cSiHurKM"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Biel Morro",
+        "photographerUrl": "https://unsplash.com/@bielmorro",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/red-rose-flowers-kcKiBcDTJt4",
+        "unsplashId": "kcKiBcDTJt4"
+      },
+      {
+        "photographer": "Reanimated Man X",
+        "photographerUrl": "https://unsplash.com/@reanimatedmanx",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-rose-usCacia78zI",
+        "unsplashId": "usCacia78zI"
+      },
+      {
+        "photographer": "Waldemar Brandt",
+        "photographerUrl": "https://unsplash.com/@waldemarbrandt67w",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/orange-red-and-pink-rose-flower-sycOtFg3SBc",
+        "unsplashId": "sycOtFg3SBc"
+      }
+    ],
+    "query": "Roses",
+    "fetchedAt": "2026-04-25T08:25:52.517Z"
+  },
+  "isfahan-roses": {
+    "heroCredit": {
+      "photographer": "mdreza jalali",
+      "photographerUrl": "https://unsplash.com/@mdrezajalali",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/floral-patterned-wallpaper-with-pink-roses-and-green-leaves--UC6SHne63Y",
+      "unsplashId": "-UC6SHne63Y"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Wesley Tingey",
+        "photographerUrl": "https://unsplash.com/@wesleyphotography",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/intricate-red-and-gold-paisley-pattern-on-dark-background-zTHHhexs0fI",
+        "unsplashId": "zTHHhexs0fI"
+      },
+      {
+        "photographer": "engin akyurt",
+        "photographerUrl": "https://unsplash.com/@enginakyurt",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-red-and-blue-paisley-print-fabric-fjpSIOIGFwU",
+        "unsplashId": "fjpSIOIGFwU"
+      },
+      {
+        "photographer": "Como acto de lo que me inspira",
+        "photographerUrl": "https://unsplash.com/@estro95",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-bunch-of-flowers-on-a-tree-qNBf2t9z_EM",
+        "unsplashId": "qNBf2t9z_EM"
+      }
+    ],
+    "query": "Damask Roses",
+    "fetchedAt": "2026-04-25T08:26:02.048Z"
+  },
+  "giverny-monet": {
+    "heroCredit": {
+      "photographer": "Xuan Nguyen",
+      "photographerUrl": "https://unsplash.com/@darthxuan",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-lotus-flowers-v6V-hfxjboI",
+      "unsplashId": "v6V-hfxjboI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Jason Sung",
+        "photographerUrl": "https://unsplash.com/@jasonsung",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-lotus-flowers-on-body-of-water-n2qLrhEB5Ps",
+        "unsplashId": "n2qLrhEB5Ps"
+      },
+      {
+        "photographer": "Orkhan Farmanli",
+        "photographerUrl": "https://unsplash.com/@orkhanfarmanli",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/waterlilies-during-daytime-BekDDAMRdTY",
+        "unsplashId": "BekDDAMRdTY"
+      },
+      {
+        "photographer": "Brigitte Elsner",
+        "photographerUrl": "https://unsplash.com/@bel_media",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-white-and-yellow-water-lily-in-a-pond-ioxYSE5CFpI",
+        "unsplashId": "ioxYSE5CFpI"
+      }
+    ],
+    "query": "Water Lilies",
+    "fetchedAt": "2026-04-25T08:26:03.970Z"
+  },
+  "chelsea-flower": {
+    "heroCredit": {
+      "photographer": "mdreza jalali",
+      "photographerUrl": "https://unsplash.com/@mdrezajalali",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/circular-portraits-displayed-in-a-grid-on-a-wall-Ob5wWZ88VIw",
+      "unsplashId": "Ob5wWZ88VIw"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Baron Alloway",
+        "photographerUrl": "https://unsplash.com/@baronalloway",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/colorful-abstract-sculptures-hanging-from-ceiling-ZbqkOZIOL74",
+        "unsplashId": "ZbqkOZIOL74"
+      },
+      {
+        "photographer": "R_ INVSCIMENTO",
+        "photographerUrl": "https://unsplash.com/@r_inascimento",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-colorful-textured-sculpture-of-a-persons-head-C_2_NJ6BITA",
+        "unsplashId": "C_2_NJ6BITA"
+      },
+      {
+        "photographer": "Julia Taubitz",
+        "photographerUrl": "https://unsplash.com/@justmejuliee",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/abstract-colorful-arrangement-of-tubes-and-wires-RHr5GNz0viA",
+        "unsplashId": "RHr5GNz0viA"
+      }
+    ],
+    "query": "Mixed Exhibition",
+    "fetchedAt": "2026-04-25T08:26:12.507Z"
+  },
+  "netherlands-tulip-route": {
+    "heroCredit": {
+      "photographer": "Anthony Aird",
+      "photographerUrl": "https://unsplash.com/@anthonyaird",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-bunch-of-yellow-flowers-that-are-in-the-grass-hk9OxHuZUcQ",
+      "unsplashId": "hk9OxHuZUcQ"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Kolby Milton",
+        "photographerUrl": "https://unsplash.com/@kolbymilton",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/red-and-orange-tulips-in-various-stages-of-bloom-SgQXREV3tQU",
+        "unsplashId": "SgQXREV3tQU"
+      },
+      {
+        "photographer": "Karolina Bobek",
+        "photographerUrl": "https://unsplash.com/@karolinabobek",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-bunch-of-flowers-on-a-table-xeHK97Cw14I",
+        "unsplashId": "xeHK97Cw14I"
+      },
+      {
+        "photographer": "Bernd 📷 Dittrich",
+        "photographerUrl": "https://unsplash.com/@hdbernd",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-vase-filled-with-lots-of-colorful-flowers-G1oe_lg0Snc",
+        "unsplashId": "G1oe_lg0Snc"
+      }
+    ],
+    "query": "Late Tulips",
+    "fetchedAt": "2026-04-25T08:26:16.658Z"
+  },
+  "kashmir-tulip": {
+    "heroCredit": {
+      "photographer": "Esther Gorlee",
+      "photographerUrl": "https://unsplash.com/@esthergrl1",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/red-tulip-flowers-under-calm-blue-sky--uGmFjqkHFU",
+      "unsplashId": "-uGmFjqkHFU"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Ioann-Mark Kuznietsov",
+        "photographerUrl": "https://unsplash.com/@mrrrk_smith",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/assorted-flowers-eHlVZcSrjfg",
+        "unsplashId": "eHlVZcSrjfg"
+      },
+      {
+        "photographer": "Giu Vicente",
+        "photographerUrl": "https://unsplash.com/@giuvicente",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/depth-photography-of-pink-and-yellow-tulip-flowers-Q_SKLnop3Nc",
+        "unsplashId": "Q_SKLnop3Nc"
+      },
+      {
+        "photographer": "krystina rogers",
+        "photographerUrl": "https://unsplash.com/@krystina_elise",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/assorted-flowers-in-macro-shot-photography-during-daytime-5aXEo-hGwU0",
+        "unsplashId": "5aXEo-hGwU0"
+      }
+    ],
+    "query": "Tulips",
+    "fetchedAt": "2026-04-25T08:26:18.651Z"
+  },
+  "wisteria-japan": {
+    "heroCredit": {
+      "photographer": "Aki",
+      "photographerUrl": "https://unsplash.com/@aki_",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/purple-flowers-in-tilt-shift-lens-DHWnugCQly0",
+      "unsplashId": "DHWnugCQly0"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Aki",
+        "photographerUrl": "https://unsplash.com/@aki_",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flowers-in-forest-during-daytime-qaoHG7MLV-0",
+        "unsplashId": "qaoHG7MLV-0"
+      },
+      {
+        "photographer": "Annie Spratt",
+        "photographerUrl": "https://unsplash.com/@anniespratt",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-trees-during-daytime-8EF_olB_IwE",
+        "unsplashId": "8EF_olB_IwE"
+      },
+      {
+        "photographer": "Annie Spratt",
+        "photographerUrl": "https://unsplash.com/@anniespratt",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-wisteria-flowering-tree-_9LPbygnDJM",
+        "unsplashId": "_9LPbygnDJM"
+      }
+    ],
+    "query": "Wisteria",
+    "fetchedAt": "2026-04-25T09:28:22.099Z"
+  },
+  "provence-lavender": {
+    "heroCredit": {
+      "photographer": "Annie Spratt",
+      "photographerUrl": "https://unsplash.com/@anniespratt",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/lavender-flower-field-blooms-at-daytime-NrflUuJJK0I",
+      "unsplashId": "NrflUuJJK0I"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Daiga Ellaby",
+        "photographerUrl": "https://unsplash.com/@daiga_ellaby",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/tilt-shift-lens-pink-fetal-flowers-ClWvcrkBhMY",
+        "unsplashId": "ClWvcrkBhMY"
+      },
+      {
+        "photographer": "Antony BEC",
+        "photographerUrl": "https://unsplash.com/@antony_bec",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flower-field-under-white-sky-during-daytime-nD9tEn63suc",
+        "unsplashId": "nD9tEn63suc"
+      },
+      {
+        "photographer": "Baraa Jalahej",
+        "photographerUrl": "https://unsplash.com/@baraajalahej",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flower-in-tilt-shift-lens-qfZGhapxoa4",
+        "unsplashId": "qfZGhapxoa4"
+      }
+    ],
+    "query": "Lavender",
+    "fetchedAt": "2026-04-25T09:28:26.005Z"
+  },
+  "castelluccio-poppies": {
+    "heroCredit": {
+      "photographer": "Art of Hoping",
+      "photographerUrl": "https://unsplash.com/@artofhoping",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/shallow-focus-photo-of-red-flowers-6-23sNyvkVg",
+      "unsplashId": "6-23sNyvkVg"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Kasia",
+        "photographerUrl": "https://unsplash.com/@annabellalifestyle",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/silhouette-of-electric-posts-during-sunset-hGFgZzf_p54",
+        "unsplashId": "hGFgZzf_p54"
+      },
+      {
+        "photographer": "Mariola Szeliga",
+        "photographerUrl": "https://unsplash.com/@mariolaszeliga",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-orange-flowers-with-green-stems-d-V_9RytZ6A",
+        "unsplashId": "d-V_9RytZ6A"
+      },
+      {
+        "photographer": "Mariola Szeliga",
+        "photographerUrl": "https://unsplash.com/@mariolaszeliga",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/an-orange-flower-in-a-field-of-yellow-flowers-UdWgClyEDro",
+        "unsplashId": "UdWgClyEDro"
+      }
+    ],
+    "query": "Wildflower Poppies",
+    "fetchedAt": "2026-04-25T09:28:36.712Z"
+  },
+  "tuscany-sunflowers": {
+    "heroCredit": {
+      "photographer": "todd kent",
+      "photographerUrl": "https://unsplash.com/@churchoftodd",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/sunflower-field-under-blue-sky-during-sunset-kW1P8R-UoWI",
+      "unsplashId": "kW1P8R-UoWI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Marko Blažević",
+        "photographerUrl": "https://unsplash.com/@kerber",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-sunflower-field-during-sunset-GFFGe2eGmiM",
+        "unsplashId": "GFFGe2eGmiM"
+      },
+      {
+        "photographer": "Gérôme Bruneau",
+        "photographerUrl": "https://unsplash.com/@geromebruneau",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/bunch-of-sunflowers-RPmWEtZLh7U",
+        "unsplashId": "RPmWEtZLh7U"
+      },
+      {
+        "photographer": "Bonnie Kittle",
+        "photographerUrl": "https://unsplash.com/@bonniekdesign",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-and-brown-sunflower-field-during-daytime-5US9_Gep0qY",
+        "unsplashId": "5US9_Gep0qY"
+      }
+    ],
+    "query": "Sunflowers",
+    "fetchedAt": "2026-04-25T09:28:42.228Z"
+  },
+  "olympic-wildflowers": {
+    "heroCredit": {
+      "photographer": "Christian Bass",
+      "photographerUrl": "https://unsplash.com/@ceebeesnap",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-bush-with-white-flowers-oi1-6jKPOBU",
+      "unsplashId": "oi1-6jKPOBU"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "PeakFocus Agency",
+        "photographerUrl": "https://unsplash.com/@peakfocus",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/flowers-reach-toward-the-cloudy-sky-VOLXgjg_GOk",
+        "unsplashId": "VOLXgjg_GOk"
+      },
+      {
+        "photographer": "Peter Robbins",
+        "photographerUrl": "https://unsplash.com/@prphotography262",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-grassy-hill-with-trees-on-it-hFzD8_8JQ-c",
+        "unsplashId": "hFzD8_8JQ-c"
+      },
+      {
+        "photographer": "Hannah Pence",
+        "photographerUrl": "https://unsplash.com/@hpm_photo_tahoe",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-purple-flowers-that-are-by-the-water-IJyko_M4FnM",
+        "unsplashId": "IJyko_M4FnM"
+      }
+    ],
+    "query": "Alpine Wildflowers",
+    "fetchedAt": "2026-04-25T09:28:47.157Z"
+  },
+  "lake-baikal-edelweiss": {
+    "heroCredit": {
+      "photographer": "EVGEN SLAVIN",
+      "photographerUrl": "https://unsplash.com/@evgenslavin",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-close-up-of-some-white-flowers-in-a-field-ziV7XzONPlI",
+      "unsplashId": "ziV7XzONPlI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Jan Behnisch",
+        "photographerUrl": "https://unsplash.com/@janbehnisch",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-white-flower-with-green-leaves-in-the-dark-cIRmZ4N0WE8",
+        "unsplashId": "cIRmZ4N0WE8"
+      },
+      {
+        "photographer": "Stéphane Mingot",
+        "photographerUrl": "https://unsplash.com/@smingot",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-plant-cMAaHJtszz4",
+        "unsplashId": "cMAaHJtszz4"
+      },
+      {
+        "photographer": "Chris Michals",
+        "photographerUrl": "https://unsplash.com/@chrismichals",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-couple-of-white-flowers-sitting-on-top-of-a-wooden-table-6nvwvJi3J5U",
+        "unsplashId": "6nvwvJi3J5U"
+      }
+    ],
+    "query": "Edelweiss",
+    "fetchedAt": "2026-04-25T09:28:51.568Z"
+  },
+  "ladakh-wildflowers": {
+    "heroCredit": {
+      "photographer": "Krisztián Korhetz",
+      "photographerUrl": "https://unsplash.com/@kkorhetz",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/field-of-white-flowers-with-snow-capped-mountains-behind-ilLx8ZZb0Sg",
+      "unsplashId": "ilLx8ZZb0Sg"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Fabian Kleiser",
+        "photographerUrl": "https://unsplash.com/@fabiankleiser",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/rolling-green-hills-with-mountains-under-a-blue-sky-BpydbcQd28I",
+        "unsplashId": "BpydbcQd28I"
+      },
+      {
+        "photographer": "Aditi Panatu",
+        "photographerUrl": "https://unsplash.com/@aditipanatu95",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/wildflowers-in-the-mountains-with-a-trail-in-the-foreground-cWbFRn6EW6I",
+        "unsplashId": "cWbFRn6EW6I"
+      },
+      {
+        "photographer": "Samir Ouel",
+        "photographerUrl": "https://unsplash.com/@samirourl",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/hills-covered-with-green-trees-under-a-cloudy-sky-3fUzDMy3BrQ",
+        "unsplashId": "3fUzDMy3BrQ"
+      }
+    ],
+    "query": "High-altitude Wildflowers",
+    "fetchedAt": "2026-04-25T09:28:56.489Z"
+  },
+  "swiss-meadows": {
+    "heroCredit": {
+      "photographer": "Lukas Gächter",
+      "photographerUrl": "https://unsplash.com/@gchtr",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/green-grass-field-near-green-mountains-during-daytime-gEhv8fe8lVo",
+      "unsplashId": "gEhv8fe8lVo"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Lukas Gächter",
+        "photographerUrl": "https://unsplash.com/@gchtr",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-grass-field-near-mountain-during-daytime-tlVbaOnPC0c",
+        "unsplashId": "tlVbaOnPC0c"
+      },
+      {
+        "photographer": "Lukas Gächter",
+        "photographerUrl": "https://unsplash.com/@gchtr",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-tree-on-green-grass-field-during-daytime-327wv8qPC6I",
+        "unsplashId": "327wv8qPC6I"
+      },
+      {
+        "photographer": "Quaritsch Photography",
+        "photographerUrl": "https://unsplash.com/@quaritsch",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/herd-of-cattle-munching-grass-on-field-xZ07O0-yG1g",
+        "unsplashId": "xZ07O0-yG1g"
+      }
+    ],
+    "query": "Alpine Meadow",
+    "fetchedAt": "2026-04-25T09:29:01.262Z"
+  },
+  "fuji-shibazakura": {
+    "heroCredit": {
+      "photographer": "steph",
+      "photographerUrl": "https://unsplash.com/@stephtembersky",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-flowers-in-tilt-shift-lens-jsRepEiI9lw",
+      "unsplashId": "jsRepEiI9lw"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Yoksel 🌿 Zok",
+        "photographerUrl": "https://unsplash.com/@yoksel",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flowers--apnoSKdmrY",
+        "unsplashId": "-apnoSKdmrY"
+      },
+      {
+        "photographer": "Perry Merrity II",
+        "photographerUrl": "https://unsplash.com/@prince_perry",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-hill-covered-in-pink-flowers-and-trees-0jvFK0tpIis",
+        "unsplashId": "0jvFK0tpIis"
+      },
+      {
+        "photographer": "Perry Merrity II",
+        "photographerUrl": "https://unsplash.com/@prince_perry",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-hill-covered-in-pink-flowers-and-trees-LWvKPvwS4KI",
+        "unsplashId": "LWvKPvwS4KI"
+      }
+    ],
+    "query": "moss phlox flowers",
+    "fetchedAt": "2026-04-25T10:31:07.785Z"
+  },
+  "norway-lupins": {
+    "heroCredit": {
+      "photographer": "Nareeta Martin",
+      "photographerUrl": "https://unsplash.com/@splashabout",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/green-and-yellow-plant-near-lake-during-daytime-pS58s5m6Ot8",
+      "unsplashId": "pS58s5m6Ot8"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Delphine Ducaruge",
+        "photographerUrl": "https://unsplash.com/@delphinenz",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/blue-and-pink-flower-field-I4b-j8hNwtg",
+        "unsplashId": "I4b-j8hNwtg"
+      },
+      {
+        "photographer": "ju demu",
+        "photographerUrl": "https://unsplash.com/@judemu",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-purple-and-white-flowers-in-a-field-snAiELAz6pw",
+        "unsplashId": "snAiELAz6pw"
+      },
+      {
+        "photographer": "Cee",
+        "photographerUrl": "https://unsplash.com/@theskyandthesea",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-purple-and-white-flowers-nJqU-YHTTkk",
+        "unsplashId": "nJqU-YHTTkk"
+      }
+    ],
+    "query": "Lupins",
+    "fetchedAt": "2026-04-25T10:31:11.829Z"
+  },
+  "valley-flowers": {
+    "heroCredit": {
+      "photographer": "Aditi Panatu",
+      "photographerUrl": "https://unsplash.com/@aditipanatu95",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/wildflowers-in-the-mountains-with-a-trail-in-the-foreground-cWbFRn6EW6I",
+      "unsplashId": "cWbFRn6EW6I"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Harish Bharti",
+        "photographerUrl": "https://unsplash.com/@natureandmylens",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-daisies-in-a-field-of-grass-_RzBDjbz42I",
+        "unsplashId": "_RzBDjbz42I"
+      }
+    ],
+    "query": "himalayan wildflowers meadow",
+    "fetchedAt": "2026-04-25T10:31:13.492Z"
+  },
+  "hokkaido-lavender": {
+    "heroCredit": {
+      "photographer": "Annie Spratt",
+      "photographerUrl": "https://unsplash.com/@anniespratt",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/lavender-flower-field-blooms-at-daytime-NrflUuJJK0I",
+      "unsplashId": "NrflUuJJK0I"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Daiga Ellaby",
+        "photographerUrl": "https://unsplash.com/@daiga_ellaby",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/tilt-shift-lens-pink-fetal-flowers-ClWvcrkBhMY",
+        "unsplashId": "ClWvcrkBhMY"
+      },
+      {
+        "photographer": "Antony BEC",
+        "photographerUrl": "https://unsplash.com/@antony_bec",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flower-field-under-white-sky-during-daytime-nD9tEn63suc",
+        "unsplashId": "nD9tEn63suc"
+      },
+      {
+        "photographer": "Baraa Jalahej",
+        "photographerUrl": "https://unsplash.com/@baraajalahej",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flower-in-tilt-shift-lens-qfZGhapxoa4",
+        "unsplashId": "qfZGhapxoa4"
+      }
+    ],
+    "query": "Lavender",
+    "fetchedAt": "2026-04-25T10:31:14.949Z"
+  },
+  "dal-lake-lotus": {
+    "heroCredit": {
+      "photographer": "Sora Sagano",
+      "photographerUrl": "https://unsplash.com/@sorasagano",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-lotus-flower-in-bloom-during-daytime-z81fCikflf0",
+      "unsplashId": "z81fCikflf0"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Geoff Oliver",
+        "photographerUrl": "https://unsplash.com/@satsuma9",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-pink-lotus-flower-blooming-in-a-pond-20x1-OHP77E",
+        "unsplashId": "20x1-OHP77E"
+      },
+      {
+        "photographer": "soumya parthasarathy",
+        "photographerUrl": "https://unsplash.com/@iamsoumya",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-group-of-flowers--PYg0hNVQXE",
+        "unsplashId": "-PYg0hNVQXE"
+      },
+      {
+        "photographer": "PRASHANT KUMAR",
+        "photographerUrl": "https://unsplash.com/@zembd",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-purple-flower-with-many-other-flowers-in-the-background-oTix7JDsg84",
+        "unsplashId": "oTix7JDsg84"
+      }
+    ],
+    "query": "pink lotus",
+    "fetchedAt": "2026-04-25T10:31:22.206Z"
+  },
+  "sunflower-spain": {
+    "heroCredit": {
+      "photographer": "todd kent",
+      "photographerUrl": "https://unsplash.com/@churchoftodd",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/sunflower-field-under-blue-sky-during-sunset-kW1P8R-UoWI",
+      "unsplashId": "kW1P8R-UoWI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Marko Blažević",
+        "photographerUrl": "https://unsplash.com/@kerber",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-sunflower-field-during-sunset-GFFGe2eGmiM",
+        "unsplashId": "GFFGe2eGmiM"
+      },
+      {
+        "photographer": "Gérôme Bruneau",
+        "photographerUrl": "https://unsplash.com/@geromebruneau",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/bunch-of-sunflowers-RPmWEtZLh7U",
+        "unsplashId": "RPmWEtZLh7U"
+      },
+      {
+        "photographer": "Bonnie Kittle",
+        "photographerUrl": "https://unsplash.com/@bonniekdesign",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-and-brown-sunflower-field-during-daytime-5US9_Gep0qY",
+        "unsplashId": "5US9_Gep0qY"
+      }
+    ],
+    "query": "Sunflowers",
+    "fetchedAt": "2026-04-25T10:31:23.855Z"
+  },
+  "lotus-vietnam": {
+    "heroCredit": {
+      "photographer": "Jay Castor",
+      "photographerUrl": "https://unsplash.com/@jayicastor",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/rule-of-thirds-photography-of-pink-and-white-lotus-flower-floating-on-body-of-water-7AcMUSYRZpU",
+      "unsplashId": "7AcMUSYRZpU"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "michael joiner",
+        "photographerUrl": "https://unsplash.com/@voodoog",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/close-up-photography-of-pink-petaled-flower-2PX8L5zPLwc",
+        "unsplashId": "2PX8L5zPLwc"
+      },
+      {
+        "photographer": "Sora Sagano",
+        "photographerUrl": "https://unsplash.com/@sorasagano",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-lotus-flower-in-bloom-during-daytime-z81fCikflf0",
+        "unsplashId": "z81fCikflf0"
+      },
+      {
+        "photographer": "Hanna Skoromna",
+        "photographerUrl": "https://unsplash.com/@hannaskoromna",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/shallow-focus-photography-of-pink-lotus-SQ57KVVBnKE",
+        "unsplashId": "SQ57KVVBnKE"
+      }
+    ],
+    "query": "lotus flower",
+    "fetchedAt": "2026-04-25T10:31:27.410Z"
+  },
+  "wildflowers-colorado": {
+    "heroCredit": {
+      "photographer": "Len Rempel",
+      "photographerUrl": "https://unsplash.com/@lenr1984",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-grassy-field-with-a-mountain-in-the-background-vfSZ75JQbn4",
+      "unsplashId": "vfSZ75JQbn4"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Intricate Explorer",
+        "photographerUrl": "https://unsplash.com/@intricateexplorer",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-flowers-on-green-grass-field-near-mountains-during-daytime-U_sLebubWk8",
+        "unsplashId": "U_sLebubWk8"
+      },
+      {
+        "photographer": "Len Rempel",
+        "photographerUrl": "https://unsplash.com/@lenr1984",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-and-rocks-ntU8zFARQPg",
+        "unsplashId": "ntU8zFARQPg"
+      },
+      {
+        "photographer": "Aleksei Agafonov",
+        "photographerUrl": "https://unsplash.com/@alekseixagafonov",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-rocky-mountain-landscape-with-a-stream-and-wildflowers-IsG0BeEb2v4",
+        "unsplashId": "IsG0BeEb2v4"
+      }
+    ],
+    "query": "rocky mountain wildflowers",
+    "fetchedAt": "2026-04-25T10:31:32.241Z"
+  },
+  "hydrangea-azores": {
+    "heroCredit": {
+      "photographer": "Josefin",
+      "photographerUrl": "https://unsplash.com/@josefin",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/blue-and-yellow-petaled-flowers-under-blue-sky-LvEOWMyr-Bc",
+      "unsplashId": "LvEOWMyr-Bc"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Jan Ranft",
+        "photographerUrl": "https://unsplash.com/@rokkon",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-and-white-flower-in-close-up-photography-during-daytime-cybbp711b9Q",
+        "unsplashId": "cybbp711b9Q"
+      },
+      {
+        "photographer": "Maria Lazurenko",
+        "photographerUrl": "https://unsplash.com/@marusyasb",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/shallow-focus-photography-of-white-flowers-J1HJcvRG5Hc",
+        "unsplashId": "J1HJcvRG5Hc"
+      },
+      {
+        "photographer": "Atul Vinayak",
+        "photographerUrl": "https://unsplash.com/@atulvi",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flowers-on-brown-wooden-fence-QB7hQtyUdyU",
+        "unsplashId": "QB7hQtyUdyU"
+      }
+    ],
+    "query": "Hydrangeas",
+    "fetchedAt": "2026-04-25T10:31:36.084Z"
+  },
+  "england-lavender": {
+    "heroCredit": {
+      "photographer": "Annie Spratt",
+      "photographerUrl": "https://unsplash.com/@anniespratt",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/lavender-flower-field-blooms-at-daytime-NrflUuJJK0I",
+      "unsplashId": "NrflUuJJK0I"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Daiga Ellaby",
+        "photographerUrl": "https://unsplash.com/@daiga_ellaby",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/tilt-shift-lens-pink-fetal-flowers-ClWvcrkBhMY",
+        "unsplashId": "ClWvcrkBhMY"
+      },
+      {
+        "photographer": "Antony BEC",
+        "photographerUrl": "https://unsplash.com/@antony_bec",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flower-field-under-white-sky-during-daytime-nD9tEn63suc",
+        "unsplashId": "nD9tEn63suc"
+      },
+      {
+        "photographer": "Baraa Jalahej",
+        "photographerUrl": "https://unsplash.com/@baraajalahej",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flower-in-tilt-shift-lens-qfZGhapxoa4",
+        "unsplashId": "qfZGhapxoa4"
+      }
+    ],
+    "query": "Lavender",
+    "fetchedAt": "2026-04-25T11:33:39.451Z"
+  },
+  "munnar-neelakurinji": {
+    "heroCredit": {
+      "photographer": "Francesca Bazzani",
+      "photographerUrl": "https://unsplash.com/@francescabazzani",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/wildflowers-bloom-in-a-scenic-sunny-field-eyOujLBrJss",
+      "unsplashId": "eyOujLBrJss"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Spencer DeMera",
+        "photographerUrl": "https://unsplash.com/@spencer_demera",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-purple-flowers-with-a-blue-sky-in-the-background-GQMbi80__kI",
+        "unsplashId": "GQMbi80__kI"
+      },
+      {
+        "photographer": "Spencer DeMera",
+        "photographerUrl": "https://unsplash.com/@spencer_demera",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-purple-flowers-with-a-blue-sky-in-the-background-G9JbrmiD4DE",
+        "unsplashId": "G9JbrmiD4DE"
+      },
+      {
+        "photographer": "Spencer DeMera",
+        "photographerUrl": "https://unsplash.com/@spencer_demera",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-purple-flowers-on-a-sunny-day-q8x17gQlOdg",
+        "unsplashId": "q8x17gQlOdg"
+      }
+    ],
+    "query": "purple wildflowers hills",
+    "fetchedAt": "2026-04-25T11:33:46.584Z"
+  },
+  "namaqualand-daisies": {
+    "heroCredit": {
+      "photographer": "Amy Harrison",
+      "photographerUrl": "https://unsplash.com/@amy_harrison",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-field-full-of-orange-and-white-flowers-Oa9rIO4jCcE",
+      "unsplashId": "Oa9rIO4jCcE"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Amy Harrison",
+        "photographerUrl": "https://unsplash.com/@amy_harrison",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-flowers-that-are-in-the-grass-2wiMdLDwloI",
+        "unsplashId": "2wiMdLDwloI"
+      },
+      {
+        "photographer": "Amy Harrison",
+        "photographerUrl": "https://unsplash.com/@amy_harrison",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-yellow-and-purple-flowers-JpLYmrPeKCw",
+        "unsplashId": "JpLYmrPeKCw"
+      },
+      {
+        "photographer": "David Clode",
+        "photographerUrl": "https://unsplash.com/@davidclode",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-group-of-colorful-flowers-MeSZ-HJn5n8",
+        "unsplashId": "MeSZ-HJn5n8"
+      }
+    ],
+    "query": "namaqualand daisies",
+    "fetchedAt": "2026-04-25T11:33:54.412Z"
+  },
+  "dahlia-mexico": {
+    "heroCredit": {
+      "photographer": "catrina farrell",
+      "photographerUrl": "https://unsplash.com/@xiao_mao38",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-and-white-floral-decor-79Qa_Zr-iEs",
+      "unsplashId": "79Qa_Zr-iEs"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Timo C. Dinger",
+        "photographerUrl": "https://unsplash.com/@tcdinger",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-in-tilt-shift-lens-GjQ9mpJg4OQ",
+        "unsplashId": "GjQ9mpJg4OQ"
+      },
+      {
+        "photographer": "Sara McMurray",
+        "photographerUrl": "https://unsplash.com/@saramac",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-in-clear-glass-vase-yu326pwy9i0",
+        "unsplashId": "yu326pwy9i0"
+      },
+      {
+        "photographer": "Lynnelle Cleveland",
+        "photographerUrl": "https://unsplash.com/@lynnelle",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-white-flowers-on-white-wall-KSu972ZVzk4",
+        "unsplashId": "KSu972ZVzk4"
+      }
+    ],
+    "query": "Dahlias",
+    "fetchedAt": "2026-04-25T11:33:55.885Z"
+  },
+  "cosmos-korea": {
+    "heroCredit": {
+      "photographer": "Brett Ritchie",
+      "photographerUrl": "https://unsplash.com/@brett_ritchie_photography",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/black-and-brown-galaxy-1vKTnwLMdqs",
+      "unsplashId": "1vKTnwLMdqs"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Greg Rakozy",
+        "photographerUrl": "https://unsplash.com/@grakozy",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/silhouette-photography-of-person-oMpAz-DN-9I",
+        "unsplashId": "oMpAz-DN-9I"
+      },
+      {
+        "photographer": "Guillermo Ferla",
+        "photographerUrl": "https://unsplash.com/@gferla",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/starry-night-sky-over-starry-night-lLExhYl-cXQ",
+        "unsplashId": "lLExhYl-cXQ"
+      },
+      {
+        "photographer": "Jeremy Thomas",
+        "photographerUrl": "https://unsplash.com/@jeremythomasphoto",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/the-stars-and-galaxy-as-seen-from-rocky-mountain-national-park-4dpAqfTbvKA",
+        "unsplashId": "4dpAqfTbvKA"
+      }
+    ],
+    "query": "Cosmos",
+    "fetchedAt": "2026-04-25T11:34:01.965Z"
+  },
+  "aster-tibet": {
+    "heroCredit": {
+      "photographer": "Rithya Cheng",
+      "photographerUrl": "https://unsplash.com/@rithyacheng",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/small-white-flowers-with-green-leaves-hanging-down-AAy_sjJGFos",
+      "unsplashId": "AAy_sjJGFos"
+    },
+    "galleryCredits": [],
+    "query": "Wild Asters",
+    "fetchedAt": "2026-04-25T11:34:02.982Z"
+  },
+  "heather-scotland": {
+    "heroCredit": {
+      "photographer": "Yoksel 🌿 Zok",
+      "photographerUrl": "https://unsplash.com/@yoksel",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/selective-focus-photography-of-purple-flowers-GwCO93LwS5k",
+      "unsplashId": "GwCO93LwS5k"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Journeys With Sean",
+        "photographerUrl": "https://unsplash.com/@journeyswithsean",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-mountains-photo-during-daytime-f44QzL2ynzo",
+        "unsplashId": "f44QzL2ynzo"
+      },
+      {
+        "photographer": "Joanna Kosinska",
+        "photographerUrl": "https://unsplash.com/@joannakosinska",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/field-of-lavender-f5SedlxFaOQ",
+        "unsplashId": "f5SedlxFaOQ"
+      },
+      {
+        "photographer": "Daiga Ellaby",
+        "photographerUrl": "https://unsplash.com/@daiga_ellaby",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/tilt-shift-lens-pink-fetal-flowers-ClWvcrkBhMY",
+        "unsplashId": "ClWvcrkBhMY"
+      }
+    ],
+    "query": "Heather",
+    "fetchedAt": "2026-04-25T11:34:08.210Z"
+  },
+  "atacama-bloom": {
+    "heroCredit": {
+      "photographer": "Juan Cortez Estay",
+      "photographerUrl": "https://unsplash.com/@julocoe",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/vast-field-of-pink-and-purple-wildflowers-under-blue-sky-Wijb4OjGUeQ",
+      "unsplashId": "Wijb4OjGUeQ"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Florian Delée",
+        "photographerUrl": "https://unsplash.com/@florian_delee",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-canyon-with-a-river-running-through-it-sJbMewBMsvw",
+        "unsplashId": "sJbMewBMsvw"
+      },
+      {
+        "photographer": "Florian Delée",
+        "photographerUrl": "https://unsplash.com/@florian_delee",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-desert-landscape-with-a-mountain-range-in-the-background-fR8_JldS2Dc",
+        "unsplashId": "fR8_JldS2Dc"
+      },
+      {
+        "photographer": "Hugo Kruip",
+        "photographerUrl": "https://unsplash.com/@hugo1951",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/body-of-water-during-daytime-UzDB2nZoBWE",
+        "unsplashId": "UzDB2nZoBWE"
+      }
+    ],
+    "query": "atacama desert bloom",
+    "fetchedAt": "2026-04-25T11:34:14.809Z"
+  },
+  "cape-fynbos": {
+    "heroCredit": {
+      "photographer": "Sean Brookes",
+      "photographerUrl": "https://unsplash.com/@seanryanbrookes",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-on-a-plant-MC_MH2Q84iU",
+      "unsplashId": "MC_MH2Q84iU"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Cecilia Kusel",
+        "photographerUrl": "https://unsplash.com/@cieramedia",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-green-succulent-plant-on-water-oxOiIEbiwK0",
+        "unsplashId": "oxOiIEbiwK0"
+      },
+      {
+        "photographer": "David Clode",
+        "photographerUrl": "https://unsplash.com/@davidclode",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-group-of-pink-flowers-with-green-leaves-qYX7sN5SHQQ",
+        "unsplashId": "qYX7sN5SHQQ"
+      },
+      {
+        "photographer": "Cecilia Kusel",
+        "photographerUrl": "https://unsplash.com/@cieramedia",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-white-flowers-on-brown-wooden-table-WkCGwPqhzaM",
+        "unsplashId": "WkCGwPqhzaM"
+      }
+    ],
+    "query": "king protea fynbos",
+    "fetchedAt": "2026-04-25T11:34:19.527Z"
+  },
+  "rice-terraces-bali": {
+    "heroCredit": {
+      "photographer": "Alena Jarrett",
+      "photographerUrl": "https://unsplash.com/@jarretto18",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-on-a-tree-6s4DOKaE9nc",
+      "unsplashId": "6s4DOKaE9nc"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Ermelinda Martín",
+        "photographerUrl": "https://unsplash.com/@emeritte82",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-RFXsimkOEHs",
+        "unsplashId": "RFXsimkOEHs"
+      },
+      {
+        "photographer": "loesthpedi parorrongan",
+        "photographerUrl": "https://unsplash.com/@jetvio",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-a-flower-IcZYP6EhBmU",
+        "unsplashId": "IcZYP6EhBmU"
+      },
+      {
+        "photographer": "Abdul Zukki",
+        "photographerUrl": "https://unsplash.com/@zukkiii_",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-white-flower-sitting-in-the-middle-of-a-field-evNquWAqo7U",
+        "unsplashId": "evNquWAqo7U"
+      }
+    ],
+    "query": "frangipani flower",
+    "fetchedAt": "2026-04-25T13:10:10.961Z"
+  },
+  "spider-lily-japan": {
+    "heroCredit": {
+      "photographer": "Se. Tsuchiya",
+      "photographerUrl": "https://unsplash.com/@s_tsuchiya",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-red-flower-dMzMMdmq1RM",
+      "unsplashId": "dMzMMdmq1RM"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "玉耀 秦",
+        "photographerUrl": "https://unsplash.com/@forthdevil",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-red-flower-with-a-black-background-F6aaW5jGhcM",
+        "unsplashId": "F6aaW5jGhcM"
+      },
+      {
+        "photographer": "Xiao Yang",
+        "photographerUrl": "https://unsplash.com/@xiaoyang_6",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-on-a-black-background-uFQAnxTN_fQ",
+        "unsplashId": "uFQAnxTN_fQ"
+      },
+      {
+        "photographer": "Susann Schuster",
+        "photographerUrl": "https://unsplash.com/@susannschuster",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-red-flower-on-a-black-background-hx84mMGqV6Q",
+        "unsplashId": "hx84mMGqV6Q"
+      }
+    ],
+    "query": "red spider lily",
+    "fetchedAt": "2026-04-25T13:10:15.972Z"
+  },
+  "dahlia-garden-sf": {
+    "heroCredit": {
+      "photographer": "catrina farrell",
+      "photographerUrl": "https://unsplash.com/@xiao_mao38",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-and-white-floral-decor-79Qa_Zr-iEs",
+      "unsplashId": "79Qa_Zr-iEs"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Timo C. Dinger",
+        "photographerUrl": "https://unsplash.com/@tcdinger",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-in-tilt-shift-lens-GjQ9mpJg4OQ",
+        "unsplashId": "GjQ9mpJg4OQ"
+      },
+      {
+        "photographer": "Sara McMurray",
+        "photographerUrl": "https://unsplash.com/@saramac",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-in-clear-glass-vase-yu326pwy9i0",
+        "unsplashId": "yu326pwy9i0"
+      },
+      {
+        "photographer": "Lynnelle Cleveland",
+        "photographerUrl": "https://unsplash.com/@lynnelle",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-white-flowers-on-white-wall-KSu972ZVzk4",
+        "unsplashId": "KSu972ZVzk4"
+      }
+    ],
+    "query": "Dahlias",
+    "fetchedAt": "2026-04-25T13:10:17.994Z"
+  },
+  "grafton-jacaranda": {
+    "heroCredit": {
+      "photographer": "Junel Mujar",
+      "photographerUrl": "https://unsplash.com/@junelmujar",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/purple-flowers-in-tilt-shift-lens-hW73E3MtzyA",
+      "unsplashId": "hW73E3MtzyA"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Snowscat",
+        "photographerUrl": "https://unsplash.com/@snowscat",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-street-filled-with-lots-of-purple-flowers-59pbE3NsiXk",
+        "unsplashId": "59pbE3NsiXk"
+      },
+      {
+        "photographer": "Tim Cooper",
+        "photographerUrl": "https://unsplash.com/@tcooper86",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/cherry-blossoms-Mqm9pG8Vpuc",
+        "unsplashId": "Mqm9pG8Vpuc"
+      },
+      {
+        "photographer": "Junel Mujar",
+        "photographerUrl": "https://unsplash.com/@junelmujar",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-purple-tree-with-lots-of-purple-flowers-Vet3i2x-WKw",
+        "unsplashId": "Vet3i2x-WKw"
+      }
+    ],
+    "query": "Jacaranda",
+    "fetchedAt": "2026-04-25T13:10:26.823Z"
+  },
+  "chrysanthemum-japan": {
+    "heroCredit": {
+      "photographer": "Lan Gao",
+      "photographerUrl": "https://unsplash.com/@langao",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower--3oEdLeSZGo",
+      "unsplashId": "-3oEdLeSZGo"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Julia Ly",
+        "photographerUrl": "https://unsplash.com/@jujuly",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-yellow-flowers-that-are-blooming-uolaxgKJAlY",
+        "unsplashId": "uolaxgKJAlY"
+      },
+      {
+        "photographer": "Yoksel 🌿 Zok",
+        "photographerUrl": "https://unsplash.com/@yoksel",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/blooming-red-petaled-flowers-xcKG3Fkwhr0",
+        "unsplashId": "xcKG3Fkwhr0"
+      },
+      {
+        "photographer": "Julia Ly",
+        "photographerUrl": "https://unsplash.com/@jujuly",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-white-and-yellow-flowers-with-green-leaves-c-zocs5LqeI",
+        "unsplashId": "c-zocs5LqeI"
+      }
+    ],
+    "query": "Chrysanthemums",
+    "fetchedAt": "2026-04-25T13:11:02.198Z"
+  },
+  "marigold-india": {
+    "heroCredit": {
+      "photographer": "Julia Kwiek",
+      "photographerUrl": "https://unsplash.com/@jkiwi",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/orange-flowers-with-green-leaves-2j8X-RpB1sM",
+      "unsplashId": "2j8X-RpB1sM"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Tawseem Hakak",
+        "photographerUrl": "https://unsplash.com/@tawseemhakak",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-orange-flowers-in-a-garden-ReWseLiFgUw",
+        "unsplashId": "ReWseLiFgUw"
+      },
+      {
+        "photographer": "Tawseem Hakak",
+        "photographerUrl": "https://unsplash.com/@tawseemhakak",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-orange-flowers-with-trees-in-the-background-uFL5P_t8HEA",
+        "unsplashId": "uFL5P_t8HEA"
+      },
+      {
+        "photographer": "Cybele",
+        "photographerUrl": "https://unsplash.com/@cybele264",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-orange-flowers-next-to-a-lush-green-field-hhQrzpVa2eg",
+        "unsplashId": "hhQrzpVa2eg"
+      }
+    ],
+    "query": "Marigolds",
+    "fetchedAt": "2026-04-25T13:11:08.971Z"
+  },
+  "cosmos-japan": {
+    "heroCredit": {
+      "photographer": "Brett Ritchie",
+      "photographerUrl": "https://unsplash.com/@brett_ritchie_photography",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/black-and-brown-galaxy-1vKTnwLMdqs",
+      "unsplashId": "1vKTnwLMdqs"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Greg Rakozy",
+        "photographerUrl": "https://unsplash.com/@grakozy",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/silhouette-photography-of-person-oMpAz-DN-9I",
+        "unsplashId": "oMpAz-DN-9I"
+      },
+      {
+        "photographer": "Guillermo Ferla",
+        "photographerUrl": "https://unsplash.com/@gferla",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/starry-night-sky-over-starry-night-lLExhYl-cXQ",
+        "unsplashId": "lLExhYl-cXQ"
+      },
+      {
+        "photographer": "Jeremy Thomas",
+        "photographerUrl": "https://unsplash.com/@jeremythomasphoto",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/the-stars-and-galaxy-as-seen-from-rocky-mountain-national-park-4dpAqfTbvKA",
+        "unsplashId": "4dpAqfTbvKA"
+      }
+    ],
+    "query": "Cosmos",
+    "fetchedAt": "2026-04-25T13:11:10.428Z"
+  },
+  "kangaroo-paw-perth": {
+    "heroCredit": {
+      "photographer": "Jo Szczepanska",
+      "photographerUrl": "https://unsplash.com/@joszczepanska",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/yellow-and-red-flower-in-tilt-shift-lens-TpDrm06DtlA",
+      "unsplashId": "TpDrm06DtlA"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Amber BC",
+        "photographerUrl": "https://unsplash.com/@amberbc",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-plant-with-yellow-flowers-qW1-RB0U2Aw",
+        "unsplashId": "qW1-RB0U2Aw"
+      },
+      {
+        "photographer": "David Clode",
+        "photographerUrl": "https://unsplash.com/@davidclode",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-pink-flower-on-a-black-background-HJ8ysVNCAFI",
+        "unsplashId": "HJ8ysVNCAFI"
+      },
+      {
+        "photographer": "David Clode",
+        "photographerUrl": "https://unsplash.com/@davidclode",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-plant-with-yellow-flowers-Kiwt_UI9lkc",
+        "unsplashId": "Kiwt_UI9lkc"
+      }
+    ],
+    "query": "kangaroo paw flower",
+    "fetchedAt": "2026-04-25T13:11:14.624Z"
+  },
+  "ba-jacaranda": {
+    "heroCredit": {
+      "photographer": "Junel Mujar",
+      "photographerUrl": "https://unsplash.com/@junelmujar",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/purple-flowers-in-tilt-shift-lens-hW73E3MtzyA",
+      "unsplashId": "hW73E3MtzyA"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Snowscat",
+        "photographerUrl": "https://unsplash.com/@snowscat",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-street-filled-with-lots-of-purple-flowers-59pbE3NsiXk",
+        "unsplashId": "59pbE3NsiXk"
+      },
+      {
+        "photographer": "Tim Cooper",
+        "photographerUrl": "https://unsplash.com/@tcooper86",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/cherry-blossoms-Mqm9pG8Vpuc",
+        "unsplashId": "Mqm9pG8Vpuc"
+      },
+      {
+        "photographer": "Junel Mujar",
+        "photographerUrl": "https://unsplash.com/@junelmujar",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-purple-tree-with-lots-of-purple-flowers-Vet3i2x-WKw",
+        "unsplashId": "Vet3i2x-WKw"
+      }
+    ],
+    "query": "Jacaranda",
+    "fetchedAt": "2026-04-25T13:11:16.030Z"
+  },
+  "tekapo-lupins": {
+    "heroCredit": {
+      "photographer": "Nareeta Martin",
+      "photographerUrl": "https://unsplash.com/@splashabout",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/green-and-yellow-plant-near-lake-during-daytime-pS58s5m6Ot8",
+      "unsplashId": "pS58s5m6Ot8"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Delphine Ducaruge",
+        "photographerUrl": "https://unsplash.com/@delphinenz",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/blue-and-pink-flower-field-I4b-j8hNwtg",
+        "unsplashId": "I4b-j8hNwtg"
+      },
+      {
+        "photographer": "ju demu",
+        "photographerUrl": "https://unsplash.com/@judemu",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-purple-and-white-flowers-in-a-field-snAiELAz6pw",
+        "unsplashId": "snAiELAz6pw"
+      },
+      {
+        "photographer": "Cee",
+        "photographerUrl": "https://unsplash.com/@theskyandthesea",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-purple-and-white-flowers-nJqU-YHTTkk",
+        "unsplashId": "nJqU-YHTTkk"
+      }
+    ],
+    "query": "Lupins",
+    "fetchedAt": "2026-04-25T14:13:19.723Z"
+  },
+  "pretoria-jacaranda": {
+    "heroCredit": {
+      "photographer": "Junel Mujar",
+      "photographerUrl": "https://unsplash.com/@junelmujar",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/purple-flowers-in-tilt-shift-lens-hW73E3MtzyA",
+      "unsplashId": "hW73E3MtzyA"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Snowscat",
+        "photographerUrl": "https://unsplash.com/@snowscat",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-street-filled-with-lots-of-purple-flowers-59pbE3NsiXk",
+        "unsplashId": "59pbE3NsiXk"
+      },
+      {
+        "photographer": "Tim Cooper",
+        "photographerUrl": "https://unsplash.com/@tcooper86",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/cherry-blossoms-Mqm9pG8Vpuc",
+        "unsplashId": "Mqm9pG8Vpuc"
+      },
+      {
+        "photographer": "Junel Mujar",
+        "photographerUrl": "https://unsplash.com/@junelmujar",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-purple-tree-with-lots-of-purple-flowers-Vet3i2x-WKw",
+        "unsplashId": "Vet3i2x-WKw"
+      }
+    ],
+    "query": "Jacaranda",
+    "fetchedAt": "2026-04-25T14:13:21.681Z"
+  },
+  "pink-muhly-korea": {
+    "heroCredit": {
+      "photographer": "sq lim",
+      "photographerUrl": "https://unsplash.com/@sql",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-grassy-field-with-people-walking-in-the-distance-3pE3ZsSp-y8",
+      "unsplashId": "3pE3ZsSp-y8"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "yeonhee",
+        "photographerUrl": "https://unsplash.com/@onh",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/green-trees-under-white-sky-during-daytime-FzHBSpm-474",
+        "unsplashId": "FzHBSpm-474"
+      },
+      {
+        "photographer": "insung yoon",
+        "photographerUrl": "https://unsplash.com/@insungpandora",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-field-of-tall-grass-0hpibdFT1Lo",
+        "unsplashId": "0hpibdFT1Lo"
+      },
+      {
+        "photographer": "john ko",
+        "photographerUrl": "https://unsplash.com/@jko001",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-grass-with-trees-and-a-building-in-the-background-NOBJaQC2s00",
+        "unsplashId": "NOBJaQC2s00"
+      }
+    ],
+    "query": "Pink Muhly Grass",
+    "fetchedAt": "2026-04-25T14:13:27.022Z"
+  },
+  "chrysanthemum-china": {
+    "heroCredit": {
+      "photographer": "Lan Gao",
+      "photographerUrl": "https://unsplash.com/@langao",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower--3oEdLeSZGo",
+      "unsplashId": "-3oEdLeSZGo"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Julia Ly",
+        "photographerUrl": "https://unsplash.com/@jujuly",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-yellow-flowers-that-are-blooming-uolaxgKJAlY",
+        "unsplashId": "uolaxgKJAlY"
+      },
+      {
+        "photographer": "Yoksel 🌿 Zok",
+        "photographerUrl": "https://unsplash.com/@yoksel",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/blooming-red-petaled-flowers-xcKG3Fkwhr0",
+        "unsplashId": "xcKG3Fkwhr0"
+      },
+      {
+        "photographer": "Julia Ly",
+        "photographerUrl": "https://unsplash.com/@jujuly",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-white-and-yellow-flowers-with-green-leaves-c-zocs5LqeI",
+        "unsplashId": "c-zocs5LqeI"
+      }
+    ],
+    "query": "Chrysanthemums",
+    "fetchedAt": "2026-04-25T14:13:29.127Z"
+  },
+  "pohutukawa-nz": {
+    "heroCredit": {
+      "photographer": "Rowan Simpson",
+      "photographerUrl": "https://unsplash.com/@nzrhan",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/red-flower-in-tilt-shift-lens-elzWY3ha7RY",
+      "unsplashId": "elzWY3ha7RY"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Sandy Millar",
+        "photographerUrl": "https://unsplash.com/@sandym10",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-and-red-flower-in-macro-lens-o2xC2ivGv_8",
+        "unsplashId": "o2xC2ivGv_8"
+      },
+      {
+        "photographer": "Andy Bridge",
+        "photographerUrl": "https://unsplash.com/@andybridge",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-tree-with-red-flowers-in-the-foreground-and-a-blue-sky-in-the-background-h25DJGjzsbs",
+        "unsplashId": "h25DJGjzsbs"
+      },
+      {
+        "photographer": "Josh Tere",
+        "photographerUrl": "https://unsplash.com/@verballyencrypte",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-on-a-tree-R7myyavs-V8",
+        "unsplashId": "R7myyavs-V8"
+      }
+    ],
+    "query": "pohutukawa",
+    "fetchedAt": "2026-04-25T14:13:33.779Z"
+  },
+  "poinsettia-mexico": {
+    "heroCredit": {
+      "photographer": "Jeffrey Hamilton",
+      "photographerUrl": "https://unsplash.com/@pistos",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/red-flowers-with-green-leaves-b0xENoQfBDM",
+      "unsplashId": "b0xENoQfBDM"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Samantha Jean",
+        "photographerUrl": "https://unsplash.com/@samanthadeestudio",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-red-poinsettias-with-green-leaves-zf5OR1a-anw",
+        "unsplashId": "zf5OR1a-anw"
+      },
+      {
+        "photographer": "Nika Benedictova",
+        "photographerUrl": "https://unsplash.com/@nika_benedictova",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-red-flower-Nq85jRiupcc",
+        "unsplashId": "Nq85jRiupcc"
+      },
+      {
+        "photographer": "Ray Shrewsberry",
+        "photographerUrl": "https://unsplash.com/@ray12119",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-red-poinsettia-flower-93I-jZOniQI",
+        "unsplashId": "93I-jZOniQI"
+      }
+    ],
+    "query": "Poinsettia",
+    "fetchedAt": "2026-04-25T14:13:39.055Z"
+  },
+  "cherry-blossom-kunming": {
+    "heroCredit": {
+      "photographer": "Abhijeet Gaikwad",
+      "photographerUrl": "https://unsplash.com/@abhijeetgaikwad10",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-cherry-blossom-tree-under-blue-sky-during-daytime-MtvZ0erOhAE",
+      "unsplashId": "MtvZ0erOhAE"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Ivan Aleksic",
+        "photographerUrl": "https://unsplash.com/@ivalex",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-cherry-blossom-in-close-up-photography-sla_fgpTxdM",
+        "unsplashId": "sla_fgpTxdM"
+      },
+      {
+        "photographer": "Ivan Aleksic",
+        "photographerUrl": "https://unsplash.com/@ivalex",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-cherry-blossom-in-close-up-photography-4LAceislBI0",
+        "unsplashId": "4LAceislBI0"
+      },
+      {
+        "photographer": "Ivan Aleksic",
+        "photographerUrl": "https://unsplash.com/@ivalex",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flower-buds-in-close-up-photography-2-rmsMa4Thc",
+        "unsplashId": "2-rmsMa4Thc"
+      }
+    ],
+    "query": "Winter Cherry Blossoms",
+    "fetchedAt": "2026-04-25T14:13:44.194Z"
+  },
+  "tulip-cape-town": {
+    "heroCredit": {
+      "photographer": "David Clode",
+      "photographerUrl": "https://unsplash.com/@davidclode",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-and-green-flower-buds-ru4tRwHffIA",
+      "unsplashId": "ru4tRwHffIA"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Tanya Paquet",
+        "photographerUrl": "https://unsplash.com/@tanyapaquet",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-pink-flower-with-green-leaves-3iAWS9O5wyI",
+        "unsplashId": "3iAWS9O5wyI"
+      },
+      {
+        "photographer": "Ansie Potgieter",
+        "photographerUrl": "https://unsplash.com/@ansiep",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-couple-of-pink-flowers-sitting-on-top-of-a-green-plant-0sS5u-7sB08",
+        "unsplashId": "0sS5u-7sB08"
+      },
+      {
+        "photographer": "David Clode",
+        "photographerUrl": "https://unsplash.com/@davidclode",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-group-of-pink-flowers-with-green-leaves-qYX7sN5SHQQ",
+        "unsplashId": "qYX7sN5SHQQ"
+      }
+    ],
+    "query": "king protea",
+    "fetchedAt": "2026-04-25T14:13:48.241Z"
+  },
+  "bougainvillea-india": {
+    "heroCredit": {
+      "photographer": "Frodo Wanderer",
+      "photographerUrl": "https://unsplash.com/@tdt90",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-flowers-on-gray-wall-5nETjD_2x1U",
+      "unsplashId": "5nETjD_2x1U"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Ilham Abitama",
+        "photographerUrl": "https://unsplash.com/@ilhamabitama",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-and-white-flowers-against-a-blue-sky-0vZz7v9bFEA",
+        "unsplashId": "0vZz7v9bFEA"
+      },
+      {
+        "photographer": "Abishek Subba",
+        "photographerUrl": "https://unsplash.com/@aokumah",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flower-in-close-up-photography-ffSAb1WbGfM",
+        "unsplashId": "ffSAb1WbGfM"
+      },
+      {
+        "photographer": "Tayla Kohler",
+        "photographerUrl": "https://unsplash.com/@taylaktictac",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/red-leafy-flowers-9n4ArdhkvYQ",
+        "unsplashId": "9n4ArdhkvYQ"
+      }
+    ],
+    "query": "Bougainvillea",
+    "fetchedAt": "2026-04-25T14:13:53.287Z"
+  },
+  "sri-lanka-kadupul": {
+    "heroCredit": {
+      "photographer": "Suhas Dissanayake",
+      "photographerUrl": "https://unsplash.com/@suhasdissa",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-white-flower-with-yellow-center-su22rgZRGNI",
+      "unsplashId": "su22rgZRGNI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Tereza Koubová",
+        "photographerUrl": "https://unsplash.com/@terezakouba",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-delicate-yellow-flower-blooms-on-a-green-vine-i7rrOmoyuOg",
+        "unsplashId": "i7rrOmoyuOg"
+      },
+      {
+        "photographer": "Jerry Wang",
+        "photographerUrl": "https://unsplash.com/@jerry_318",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-white-flower-with-green-leaves-bnfCis4l6tI",
+        "unsplashId": "bnfCis4l6tI"
+      },
+      {
+        "photographer": "Jerry Wang",
+        "photographerUrl": "https://unsplash.com/@jerry_318",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-white-flower-with-green-leaves-ua1fOYDgp1E",
+        "unsplashId": "ua1fOYDgp1E"
+      }
+    ],
+    "query": "night blooming cereus",
+    "fetchedAt": "2026-04-25T15:16:00.075Z"
+  },
+  "fiji-hibiscus": {
+    "heroCredit": {
+      "photographer": "Jessica Sloan",
+      "photographerUrl": "https://unsplash.com/@jsloan917",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-hibiscus-in-bloom-during-daytime-p4bqtPteEp4",
+      "unsplashId": "p4bqtPteEp4"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Mick Haupt",
+        "photographerUrl": "https://unsplash.com/@rocinante_11",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/red-hibiscus-in-bloom-during-daytime-exLsCzoU8_M",
+        "unsplashId": "exLsCzoU8_M"
+      },
+      {
+        "photographer": "Jeff Kingma",
+        "photographerUrl": "https://unsplash.com/@kingmaphotos",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-and-red-flower-in-tilt-shift-lens-iDe_GKEBzUU",
+        "unsplashId": "iDe_GKEBzUU"
+      },
+      {
+        "photographer": "M Rishal",
+        "photographerUrl": "https://unsplash.com/@rishal1123",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-hibiscus-in-bloom-close-up-photo-_rZzKvoGYww",
+        "unsplashId": "_rZzKvoGYww"
+      }
+    ],
+    "query": "Hibiscus",
+    "fetchedAt": "2026-04-25T15:16:03.996Z"
+  },
+  "chiang-mai-orchid": {
+    "heroCredit": {
+      "photographer": "Ardi Evans",
+      "photographerUrl": "https://unsplash.com/@ardievans",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-and-yellow-flowers-bpMXpsNgqQs",
+      "unsplashId": "bpMXpsNgqQs"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Pawel Czerwinski",
+        "photographerUrl": "https://unsplash.com/@pawel_czerwinski",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/red-petals-jtes8PJxxj8",
+        "unsplashId": "jtes8PJxxj8"
+      },
+      {
+        "photographer": "John Wiesenfeld",
+        "photographerUrl": "https://unsplash.com/@fotofloridian",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/shallow-focus-photo-of-pink-flowers-Ug6z9PCwr58",
+        "unsplashId": "Ug6z9PCwr58"
+      },
+      {
+        "photographer": "Camila Bustamante",
+        "photographerUrl": "https://unsplash.com/@camibustamante_",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-white-moth-orchid-in-close-up-photography-VubRfL7yhwY",
+        "unsplashId": "VubRfL7yhwY"
+      }
+    ],
+    "query": "orchids",
+    "fetchedAt": "2026-04-25T15:16:07.809Z"
+  },
+  "darwin-flame-trees": {
+    "heroCredit": {
+      "photographer": "Today'z Capture",
+      "photographerUrl": "https://unsplash.com/@todayzcapture",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/red-flowers-bloom-on-a-tree-against-the-sky-8TplB6GHkhI",
+      "unsplashId": "8TplB6GHkhI"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Amogh Rathod",
+        "photographerUrl": "https://unsplash.com/@amoghrathod",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/silhouettes-of-birds-perched-on-flowering-branches-against-sky-jmp4dcygCoc",
+        "unsplashId": "jmp4dcygCoc"
+      },
+      {
+        "photographer": "Miom _0326",
+        "photographerUrl": "https://unsplash.com/@miom_3326",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/branches-with-yellow-flowers-against-a-light-blue-sky-ilITLldFtio",
+        "unsplashId": "ilITLldFtio"
+      },
+      {
+        "photographer": "Joydeep Sensarma",
+        "photographerUrl": "https://unsplash.com/@jsensarma",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-tree-with-bright-orange-flowers-in-a-park-Bje1UktVUqk",
+        "unsplashId": "Bje1UktVUqk"
+      }
+    ],
+    "query": "royal poinciana flame tree",
+    "fetchedAt": "2026-04-25T15:16:15.417Z"
+  },
+  "madeira-bird-of-paradise": {
+    "heroCredit": {
+      "photographer": "Cristina Seaborn",
+      "photographerUrl": "https://unsplash.com/@cristina_seaborn",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-bird-of-paradise-flower-is-blooming-on-a-tree-9NhAoVgUH4M",
+      "unsplashId": "9NhAoVgUH4M"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Gregory Fullard",
+        "photographerUrl": "https://unsplash.com/@gregfullard",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-plant-d_zESSpso6o",
+        "unsplashId": "d_zESSpso6o"
+      },
+      {
+        "photographer": "Sherise Van Dyk",
+        "photographerUrl": "https://unsplash.com/@iamsherise",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-and-green-plant-in-tilt-shift-lens-8Q7_f3qs9qk",
+        "unsplashId": "8Q7_f3qs9qk"
+      },
+      {
+        "photographer": "Frank Eiffert",
+        "photographerUrl": "https://unsplash.com/@feiffert",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-two-flowers-on-a-plant-kaRPwLj0ZGI",
+        "unsplashId": "kaRPwLj0ZGI"
+      }
+    ],
+    "query": "strelitzia flower",
+    "fetchedAt": "2026-04-25T15:16:19.734Z"
+  },
+  "ha-giang-peach": {
+    "heroCredit": {
+      "photographer": "Stefan K",
+      "photographerUrl": "https://unsplash.com/@stefankst",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-cherry-blossom-tree-under-blue-sky-during-daytime-3dEejEXQZcg",
+      "unsplashId": "3dEejEXQZcg"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Sandra Oberer",
+        "photographerUrl": "https://unsplash.com/@sandra_oberer",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bunch-of-pink-flowers-that-are-on-a-tree-gUmgIYvoW5c",
+        "unsplashId": "gUmgIYvoW5c"
+      },
+      {
+        "photographer": "AJ",
+        "photographerUrl": "https://unsplash.com/@ajny",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flowers-McsNra2VRQQ",
+        "unsplashId": "McsNra2VRQQ"
+      },
+      {
+        "photographer": "dadalan real",
+        "photographerUrl": "https://unsplash.com/@realdadalan",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-cherry-blossom-in-bloom-during-daytime-shRafhEd6Dw",
+        "unsplashId": "shRafhEd6Dw"
+      }
+    ],
+    "query": "peach blossom",
+    "fetchedAt": "2026-04-25T15:16:24.229Z"
+  },
+  "udaipur-lotus": {
+    "heroCredit": {
+      "photographer": "Sora Sagano",
+      "photographerUrl": "https://unsplash.com/@sorasagano",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-lotus-flower-in-bloom-during-daytime-z81fCikflf0",
+      "unsplashId": "z81fCikflf0"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Geoff Oliver",
+        "photographerUrl": "https://unsplash.com/@satsuma9",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-pink-lotus-flower-blooming-in-a-pond-20x1-OHP77E",
+        "unsplashId": "20x1-OHP77E"
+      },
+      {
+        "photographer": "soumya parthasarathy",
+        "photographerUrl": "https://unsplash.com/@iamsoumya",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-group-of-flowers--PYg0hNVQXE",
+        "unsplashId": "-PYg0hNVQXE"
+      },
+      {
+        "photographer": "PRASHANT KUMAR",
+        "photographerUrl": "https://unsplash.com/@zembd",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-purple-flower-with-many-other-flowers-in-the-background-oTix7JDsg84",
+        "unsplashId": "oTix7JDsg84"
+      }
+    ],
+    "query": "pink lotus",
+    "fetchedAt": "2026-04-25T15:16:25.775Z"
+  },
+  "wuhan-magnolia": {
+    "heroCredit": {
+      "photographer": "HAN Mengqi",
+      "photographerUrl": "https://unsplash.com/@hanmengqi",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-cherry-blossom-under-blue-sky-during-daytime-Kipgi5eJubE",
+      "unsplashId": "Kipgi5eJubE"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Giacomo Carra",
+        "photographerUrl": "https://unsplash.com/@giacomocarra",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flower-in-tilt-shift-lens-rO67lWfS4CU",
+        "unsplashId": "rO67lWfS4CU"
+      },
+      {
+        "photographer": "Quino Al",
+        "photographerUrl": "https://unsplash.com/@quinoal",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/closeup-photo-of-white-petaled-flower-BlMj6RYy3c0",
+        "unsplashId": "BlMj6RYy3c0"
+      },
+      {
+        "photographer": "Bianca Ackermann",
+        "photographerUrl": "https://unsplash.com/@biancablah",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-flower-in-tilt-shift-lens-2-270NrT_BM",
+        "unsplashId": "2-270NrT_BM"
+      }
+    ],
+    "query": "magnolia flower",
+    "fetchedAt": "2026-04-25T15:16:29.165Z"
+  },
+  "nanjing-plum": {
+    "heroCredit": {
+      "photographer": "David Brooke Martin",
+      "photographerUrl": "https://unsplash.com/@dbmartin00",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/white-petaled-flower-lFTtQqVfx6g",
+      "unsplashId": "lFTtQqVfx6g"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Eugene Zhyvchik",
+        "photographerUrl": "https://unsplash.com/@eugenezhyvchik",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-and-pink-cherry-blossom-UTcj1RKZsxo",
+        "unsplashId": "UTcj1RKZsxo"
+      },
+      {
+        "photographer": "kuaileqie RE",
+        "photographerUrl": "https://unsplash.com/@kuaileqie",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-on-a-tree-branch-oG07LxL3t-U",
+        "unsplashId": "oG07LxL3t-U"
+      },
+      {
+        "photographer": "yamasa-n",
+        "photographerUrl": "https://unsplash.com/@heppoko_yama",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-cherry-blossom-in-close-up-photography-SPEUTg0phCg",
+        "unsplashId": "SPEUTg0phCg"
+      }
+    ],
+    "query": "plum blossom",
+    "fetchedAt": "2026-04-25T15:16:33.545Z"
+  },
+  "jeju-canola": {
+    "heroCredit": {
+      "photographer": "Michael SKOPAL",
+      "photographerUrl": "https://unsplash.com/@michael_skopal",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-field-of-yellow-flowers-RsunteO43pw",
+      "unsplashId": "RsunteO43pw"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Darío Bonzi",
+        "photographerUrl": "https://unsplash.com/@dariobonzi39",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-lone-tree-stands-in-the-middle-of-a-field-wfdAICfeiUM",
+        "unsplashId": "wfdAICfeiUM"
+      },
+      {
+        "photographer": "Darío Bonzi",
+        "photographerUrl": "https://unsplash.com/@dariobonzi39",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-lone-tree-in-a-field-of-yellow-flowers-oD6fB91uz1E",
+        "unsplashId": "oD6fB91uz1E"
+      },
+      {
+        "photographer": "Marvin Zettl",
+        "photographerUrl": "https://unsplash.com/@nirvamo",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-yellow-flower-with-a-blue-sky-in-the-background-C5In7N-wujA",
+        "unsplashId": "C5In7N-wujA"
+      }
+    ],
+    "query": "canola flower",
+    "fetchedAt": "2026-04-25T16:18:43.757Z"
+  },
+  "anza-borrego-wildflowers": {
+    "heroCredit": {
+      "photographer": "Vincent Y @USA",
+      "photographerUrl": "https://unsplash.com/@vincentyuan87",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-field-of-wildflowers-in-the-desert-with-mountains-in-the-background-bJPYK4iwN3g",
+      "unsplashId": "bJPYK4iwN3g"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "JC Cervantes",
+        "photographerUrl": "https://unsplash.com/@jcnonstop87",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-wildflowers-bloom-in-the-desert-fw2e0to0Frs",
+        "unsplashId": "fw2e0to0Frs"
+      },
+      {
+        "photographer": "Chris Kofoed",
+        "photographerUrl": "https://unsplash.com/@kofoed66",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-yellow-flowers-xXm9mgGKP-Q",
+        "unsplashId": "xXm9mgGKP-Q"
+      },
+      {
+        "photographer": "April Vasquez",
+        "photographerUrl": "https://unsplash.com/@april_vasquez",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-full-of-wildflowers-and-trees-sUR0IY_XJbs",
+        "unsplashId": "sUR0IY_XJbs"
+      }
+    ],
+    "query": "desert wildflowers superbloom",
+    "fetchedAt": "2026-04-25T16:18:53.410Z"
+  },
+  "savannah-magnolia": {
+    "heroCredit": {
+      "photographer": "Alisa Matthews",
+      "photographerUrl": "https://unsplash.com/@starwarsgirl",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/white-flower-in-grayscale-photography-CNKz_7gdjJc",
+      "unsplashId": "CNKz_7gdjJc"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Alisa Matthews",
+        "photographerUrl": "https://unsplash.com/@starwarsgirl",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/white-flower-in-tilt-shift-lens-bmGTVwDZT4w",
+        "unsplashId": "bmGTVwDZT4w"
+      },
+      {
+        "photographer": "Gary J Stearman",
+        "photographerUrl": "https://unsplash.com/@steer_photography",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-white-flower-on-a-tree-3Ku_h2_Fz1U",
+        "unsplashId": "3Ku_h2_Fz1U"
+      },
+      {
+        "photographer": "Diandra Lewis",
+        "photographerUrl": "https://unsplash.com/@timelesscreationsdl",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-white-magnolia-flower-with-dark-leaves-l04Lqo8wl2s",
+        "unsplashId": "l04Lqo8wl2s"
+      }
+    ],
+    "query": "southern magnolia flower",
+    "fetchedAt": "2026-04-25T16:18:58.020Z"
+  },
+  "costa-rica-orchids": {
+    "heroCredit": {
+      "photographer": "Ardi Evans",
+      "photographerUrl": "https://unsplash.com/@ardievans",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/pink-and-yellow-flowers-bpMXpsNgqQs",
+      "unsplashId": "bpMXpsNgqQs"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Pawel Czerwinski",
+        "photographerUrl": "https://unsplash.com/@pawel_czerwinski",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/red-petals-jtes8PJxxj8",
+        "unsplashId": "jtes8PJxxj8"
+      },
+      {
+        "photographer": "John Wiesenfeld",
+        "photographerUrl": "https://unsplash.com/@fotofloridian",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/shallow-focus-photo-of-pink-flowers-Ug6z9PCwr58",
+        "unsplashId": "Ug6z9PCwr58"
+      },
+      {
+        "photographer": "Camila Bustamante",
+        "photographerUrl": "https://unsplash.com/@camibustamante_",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/pink-and-white-moth-orchid-in-close-up-photography-VubRfL7yhwY",
+        "unsplashId": "VubRfL7yhwY"
+      }
+    ],
+    "query": "orchids",
+    "fetchedAt": "2026-04-25T16:18:59.520Z"
+  },
+  "sao-paulo-ipe-roxo": {
+    "heroCredit": {
+      "photographer": "Vijayalakshmi Nidugondi",
+      "photographerUrl": "https://unsplash.com/@v_l_n",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-small-bird-perched-on-top-of-a-yellow-flower-eB26TspIIwc",
+      "unsplashId": "eB26TspIIwc"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Dennis Zhang",
+        "photographerUrl": "https://unsplash.com/@windagh",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/cars-are-parked-under-a-beautiful-pink-tree-HhzQoNPI1s4",
+        "unsplashId": "HhzQoNPI1s4"
+      },
+      {
+        "photographer": "Emilio Sáez Soro",
+        "photographerUrl": "https://unsplash.com/@evocion",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-purple-flower-9LS7O1XPUx4",
+        "unsplashId": "9LS7O1XPUx4"
+      },
+      {
+        "photographer": "Theo Lonic",
+        "photographerUrl": "https://unsplash.com/@thorai9akira",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-tree-with-pink-flowers-RxcunN_kDmo",
+        "unsplashId": "RxcunN_kDmo"
+      }
+    ],
+    "query": "purple trumpet tree",
+    "fetchedAt": "2026-04-25T16:19:07.628Z"
+  },
+  "valensole-sunflowers": {
+    "heroCredit": {
+      "photographer": "Datingscout",
+      "photographerUrl": "https://unsplash.com/@datingscout",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-field-of-yellow-flowers-InX1UkT3usg",
+      "unsplashId": "InX1UkT3usg"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Rafael K. Streit",
+        "photographerUrl": "https://unsplash.com/@rafaelks",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/yellow-sunflower-field-during-daytime-_xBNn17BpGo",
+        "unsplashId": "_xBNn17BpGo"
+      },
+      {
+        "photographer": "Yusuf Onuk",
+        "photographerUrl": "https://unsplash.com/@onkysf",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-crops-Dow4ZArRUhw",
+        "unsplashId": "Dow4ZArRUhw"
+      },
+      {
+        "photographer": "Line Kjær",
+        "photographerUrl": "https://unsplash.com/@linekjaer",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-field-of-sunflowers-c5lcCap0Ma8",
+        "unsplashId": "c5lcCap0Ma8"
+      }
+    ],
+    "query": "sunflower field provence",
+    "fetchedAt": "2026-04-25T16:19:14.538Z"
+  },
+  "kozani-saffron": {
+    "heroCredit": {
+      "photographer": "Michelle Gallagher",
+      "photographerUrl": "https://unsplash.com/@shellg67",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/shallow-focus-photo-of-autumn-crocus-c449-VuT0FA",
+      "unsplashId": "c449-VuT0FA"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "REZA JOMEPOUR",
+        "photographerUrl": "https://unsplash.com/@rezajomepour",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-purple-flower-in-a-field-T-EYWLObsWs",
+        "unsplashId": "T-EYWLObsWs"
+      },
+      {
+        "photographer": "Benyamin Bohlouli",
+        "photographerUrl": "https://unsplash.com/@benyamin_bohlouli",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-flower-in-tilt-shift-lens-fjjqDDhUBfc",
+        "unsplashId": "fjjqDDhUBfc"
+      },
+      {
+        "photographer": "REZA JOMEPOUR",
+        "photographerUrl": "https://unsplash.com/@rezajomepour",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-purple-flower-in-a-field-wrN7fWc-jV0",
+        "unsplashId": "wrN7fWc-jV0"
+      }
+    ],
+    "query": "saffron crocus",
+    "fetchedAt": "2026-04-25T16:19:18.904Z"
+  },
+  "morges-tulips": {
+    "heroCredit": {
+      "photographer": "Armand Khoury",
+      "photographerUrl": "https://unsplash.com/@armand_khoury",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/lake-surrounded-by-grasses-myrvy3rCCdg",
+      "unsplashId": "myrvy3rCCdg"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Olusola O",
+        "photographerUrl": "https://unsplash.com/@questmore",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/the-sun-is-shining-over-the-water-and-flowers-8QewfkrrquY",
+        "unsplashId": "8QewfkrrquY"
+      },
+      {
+        "photographer": "Jametlene Reskp",
+        "photographerUrl": "https://unsplash.com/@reskp",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-view-of-a-body-of-water-with-a-fountain-in-the-background-Ugd2wbvayoI",
+        "unsplashId": "Ugd2wbvayoI"
+      },
+      {
+        "photographer": "Xavier von Erlach",
+        "photographerUrl": "https://unsplash.com/@xavier_von_erlach",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/tree-on-body-of-water-flKQgvoFzbs",
+        "unsplashId": "flKQgvoFzbs"
+      }
+    ],
+    "query": "tulips lake geneva",
+    "fetchedAt": "2026-04-25T16:19:23.104Z"
+  },
+  "harare-jacaranda": {
+    "heroCredit": {
+      "photographer": "Brittany Lee",
+      "photographerUrl": "https://unsplash.com/@brittanys_meadow",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-tree-with-purple-flowers-and-a-blue-sky-in-the-background-UG6NP_QUQ5Q",
+      "unsplashId": "UG6NP_QUQ5Q"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "KC Welch",
+        "photographerUrl": "https://unsplash.com/@kcwelch330",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/purple-and-white-flower-in-close-up-photography-during-daytime-QgO7lqWqtQY",
+        "unsplashId": "QgO7lqWqtQY"
+      },
+      {
+        "photographer": "Diwei Zhu",
+        "photographerUrl": "https://unsplash.com/@chwdy",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-tree-with-purple-flowers-against-a-blue-sky-K2h6c7BOUek",
+        "unsplashId": "K2h6c7BOUek"
+      },
+      {
+        "photographer": "Cristina Seaborn",
+        "photographerUrl": "https://unsplash.com/@cristina_seaborn",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-street-with-trees-on-the-side-l2ldDBouEiM",
+        "unsplashId": "l2ldDBouEiM"
+      }
+    ],
+    "query": "jacaranda tree",
+    "fetchedAt": "2026-04-25T16:19:28.457Z"
+  },
+  "socotra-desert-rose": {
+    "heroCredit": {
+      "photographer": "Supratik Deshmukh",
+      "photographerUrl": "https://unsplash.com/@supratikdeshmukh",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/a-beautiful-red-flower-blooms-in-a-pot-z3A658qw_Uo",
+      "unsplashId": "z3A658qw_Uo"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Supratik Deshmukh",
+        "photographerUrl": "https://unsplash.com/@supratikdeshmukh",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-couple-of-potted-plants-sitting-next-to-each-other-uk3-F9j-lEw",
+        "unsplashId": "uk3-F9j-lEw"
+      },
+      {
+        "photographer": "David Clode",
+        "photographerUrl": "https://unsplash.com/@davidclode",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-close-up-of-a-flower-4fiyGwsEp0Y",
+        "unsplashId": "4fiyGwsEp0Y"
+      },
+      {
+        "photographer": "Chee Seng Chin",
+        "photographerUrl": "https://unsplash.com/@ccs1538",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-vase-filled-with-purple-flowers-next-to-a-wall-sWhxO7tIQvM",
+        "unsplashId": "sWhxO7tIQvM"
+      }
+    ],
+    "query": "adenium desert rose",
+    "fetchedAt": "2026-04-25T17:21:34.892Z"
+  },
+  "madagascar-baobab": {
+    "heroCredit": {
+      "photographer": "Graphic Node",
+      "photographerUrl": "https://unsplash.com/@graphicnode",
+      "source": "Unsplash",
+      "sourceUrl": "https://unsplash.com/photos/low-angle-photography-of-green-leafed-tree-during-daytime-O0BgY4AtjaE",
+      "unsplashId": "O0BgY4AtjaE"
+    },
+    "galleryCredits": [
+      {
+        "photographer": "Husha Bilimale",
+        "photographerUrl": "https://unsplash.com/@husha",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-bao-tree-in-the-middle-of-a-field-rbO3N8m7Ka4",
+        "unsplashId": "rbO3N8m7Ka4"
+      },
+      {
+        "photographer": "Graphic Node",
+        "photographerUrl": "https://unsplash.com/@graphicnode",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/trees-near-pathway-during-daytime-yPSbirjJWzs",
+        "unsplashId": "yPSbirjJWzs"
+      },
+      {
+        "photographer": "Rado Rafidinjatovo",
+        "photographerUrl": "https://unsplash.com/@rado_r",
+        "source": "Unsplash",
+        "sourceUrl": "https://unsplash.com/photos/a-large-tree-in-the-middle-of-a-street-wZf6Wfp70jA",
+        "unsplashId": "wZf6Wfp70jA"
+      }
+    ],
+    "query": "baobab tree madagascar",
+    "fetchedAt": "2026-04-25T17:21:39.858Z"
+  }
+}

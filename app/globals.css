@@ -1,0 +1,245 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --cream: #fce4de;           /* warm blush pink — app background */
+  --surface: #fffaf7;         /* near-white, so cards still pop off the pink */
+  --surface-alt: #f8e8e2;     /* softer pink tint for detail tiles */
+  --border: #f0d7ce;          /* dusty pink border */
+  --botanical: #2d5016;
+  --botanical-light: #4a7c2e;
+  --terracotta: #c4652e;
+  --charcoal: #2d2926;
+  --warm-gray: #8a8480;
+  --warm-gray-light: #aaa5a0;
+  --peak: #00b894;
+  --starting: #e17055;
+  --upcoming: #6c5ce7;
+  --ending: #fdcb6e;
+}
+
+/* Brand title — gradient for warmth + "bright" pop */
+.brand-title {
+  background: linear-gradient(110deg, #c4652e 0%, #e85a70 45%, #a63d7f 95%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.015em;
+  filter: drop-shadow(0 2px 10px rgba(252, 228, 222, 0.85))
+    drop-shadow(0 1px 2px rgba(166, 61, 127, 0.15));
+}
+
+html,
+body {
+  background-color: var(--cream);
+  color: var(--charcoal);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: "DM Sans", system-ui, sans-serif;
+}
+
+::selection {
+  background: rgba(196, 101, 46, 0.25);
+}
+
+.font-serif-italic {
+  font-family: "Playfair Display", Georgia, serif;
+  font-style: italic;
+}
+
+/* Scrollbar for horizontal gallery */
+.gallery-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  scroll-snap-type: x mandatory;
+}
+.gallery-scroll::-webkit-scrollbar {
+  display: none;
+}
+.gallery-scroll > * {
+  scroll-snap-align: start;
+}
+
+/* Mapbox overrides — vintage-atlas warmth */
+.mapboxgl-ctrl-logo,
+.mapboxgl-ctrl-attrib {
+  opacity: 0.5;
+  filter: grayscale(0.4);
+}
+.mapboxgl-ctrl-bottom-left,
+.mapboxgl-ctrl-bottom-right {
+  margin: 0 !important;
+}
+.mapboxgl-canvas {
+  outline: none !important;
+}
+.mapboxgl-popup {
+  display: none;
+}
+
+/* Custom pin — GPU-composited for smooth pan/zoom */
+.petal-pin {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  will-change: transform;
+  transform: translate3d(0, 0, 0);
+}
+.petal-pin__bubble {
+  width: 38px;
+  height: 38px;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  line-height: 1;
+  color: #fff;
+  background: var(--pin-color, var(--botanical));
+  box-shadow: 0 4px 10px rgba(45, 41, 38, 0.2);
+  border: 2px solid rgba(255, 254, 249, 0.92);
+  position: relative;
+  transition: transform 200ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+.petal-pin:hover .petal-pin__bubble {
+  transform: scale(1.08);
+}
+.petal-pin__label {
+  margin-top: 8px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--charcoal);
+  background: rgba(255, 254, 249, 0.9);
+  padding: 2px 7px;
+  border-radius: 999px;
+  white-space: nowrap;
+  border: 1px solid var(--border);
+  pointer-events: none;
+}
+.petal-pin__heart {
+  position: absolute;
+  top: -3px;
+  right: -3px;
+  width: 16px;
+  height: 16px;
+  border-radius: 999px;
+  background: var(--terracotta);
+  color: #fff;
+  font-size: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1.5px solid rgba(255, 254, 249, 0.95);
+}
+
+/* Peak-bloom pulse — a separate ring animated with opacity + scale (compositor-only) */
+.petal-pin--peak .petal-pin__bubble::before {
+  content: "";
+  position: absolute;
+  inset: -4px;
+  border-radius: 999px;
+  background: var(--pin-color, #00b894);
+  opacity: 0.45;
+  z-index: -1;
+  animation: petal-pulse 2s ease-out infinite;
+  will-change: transform, opacity;
+}
+@keyframes petal-pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.45;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+/* Audio waveform */
+.waveform {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  height: 28px;
+}
+.waveform span {
+  flex: 1;
+  background: currentColor;
+  border-radius: 2px;
+  opacity: 0.35;
+  transition: height 160ms ease, opacity 160ms ease;
+}
+.waveform.playing span {
+  animation: wave 1.2s ease-in-out infinite;
+}
+.waveform.playing span:nth-child(1) {
+  animation-delay: 0s;
+}
+.waveform.playing span:nth-child(2) {
+  animation-delay: 0.08s;
+}
+.waveform.playing span:nth-child(3) {
+  animation-delay: 0.16s;
+}
+.waveform.playing span:nth-child(4) {
+  animation-delay: 0.24s;
+}
+.waveform.playing span:nth-child(5) {
+  animation-delay: 0.32s;
+}
+.waveform.playing span:nth-child(6) {
+  animation-delay: 0.4s;
+}
+.waveform.playing span:nth-child(7) {
+  animation-delay: 0.48s;
+}
+.waveform.playing span:nth-child(8) {
+  animation-delay: 0.56s;
+}
+.waveform.playing span:nth-child(9) {
+  animation-delay: 0.64s;
+}
+.waveform.playing span:nth-child(10) {
+  animation-delay: 0.72s;
+}
+.waveform.playing span:nth-child(11) {
+  animation-delay: 0.8s;
+}
+.waveform.playing span:nth-child(12) {
+  animation-delay: 0.88s;
+}
+@keyframes wave {
+  0%,
+  100% {
+    height: 28%;
+    opacity: 0.35;
+  }
+  50% {
+    height: 90%;
+    opacity: 1;
+  }
+}
+
+/* Gentle spinner */
+.petal-spinner {
+  width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  border: 2px solid rgba(255, 255, 255, 0.35);
+  border-top-color: #fff;
+  animation: petal-spin 900ms linear infinite;
+}
+@keyframes petal-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
