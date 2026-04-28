@@ -48,8 +48,11 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     });
     mapRef.current = map;
 
-    // Force resize after mount in case container had zero dimensions on init
-    const resizeTimer = setTimeout(() => map.resize(), 0);
+    // Force resize at multiple checkpoints in case the container dimensions are
+    // still settling when Mapbox initializes its canvas + marker projection.
+    const resizeTimer1 = setTimeout(() => map.resize(), 0);
+    const resizeTimer2 = setTimeout(() => map.resize(), 100);
+    const resizeTimer3 = setTimeout(() => map.resize(), 500);
     const onWinResize = () => map.resize();
     window.addEventListener("resize", onWinResize);
 
@@ -109,7 +112,9 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     });
 
     return () => {
-      clearTimeout(resizeTimer);
+      clearTimeout(resizeTimer1);
+      clearTimeout(resizeTimer2);
+      clearTimeout(resizeTimer3);
       window.removeEventListener("resize", onWinResize);
       map.remove();
       mapRef.current = null;
@@ -202,12 +207,8 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
   const month = currentMonthName(today);
 
   return (
-    <main className="fixed inset-0 bg-cream" style={{ height: "100dvh", width: "100vw" }}>
-      <div
-        ref={containerRef}
-        className="absolute inset-0"
-        style={{ height: "100dvh", width: "100vw" }}
-      />
+    <main className="fixed inset-0 bg-cream">
+      <div ref={containerRef} className="absolute inset-0" />
 
       {!MAPBOX_TOKEN && <NoTokenFallback blooms={activeBlooms} onSelect={setSelected} />}
 
