@@ -38,7 +38,7 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     const map = new mapboxgl.Map({
       container: containerRef.current,
       style: "mapbox://styles/mapbox/outdoors-v12",
-      projection: { name: "mercator" }, // flat map — DOM markers don't project onto globe correctly
+      projection: { name: "globe" },
       center: [30, 20],
       zoom: 1.4,
       attributionControl: false,
