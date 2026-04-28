@@ -142,6 +142,18 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     };
 
     const addMarkers = () => {
+      // DIAG: dump map size + projection so we can compare to actual marker positions
+      const canvas = map.getCanvas();
+      console.log("[MAP]", {
+        canvasW: canvas.width,
+        canvasH: canvas.height,
+        cssW: canvas.style.width,
+        cssH: canvas.style.height,
+        zoom: map.getZoom(),
+        projection: map.getProjection().name,
+        center: map.getCenter().toArray(),
+      });
+
       activeBlooms.forEach((bloom) => {
         const info = getStatus(bloom, today);
         const el = document.createElement("div");
@@ -185,6 +197,10 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
           .setLngLat([bloom.lng, bloom.lat])
           .addTo(map);
         markers.push(marker);
+
+        // DIAG: log expected pixel position vs marker's actual positioning
+        const point = map.project([bloom.lng, bloom.lat]);
+        console.log(`[PIN] ${bloom.id.padEnd(28)} lng=${bloom.lng} lat=${bloom.lat} → px=(${Math.round(point.x)},${Math.round(point.y)}) elTransform="${el.style.transform || "<none>"}"`);
       });
     };
 
