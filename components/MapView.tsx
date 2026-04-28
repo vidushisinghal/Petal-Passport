@@ -54,8 +54,12 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     const resizeTimer1 = setTimeout(() => map.resize(), 0);
     const resizeTimer2 = setTimeout(() => map.resize(), 100);
     const resizeTimer3 = setTimeout(() => map.resize(), 500);
+    const resizeTimer4 = setTimeout(() => map.resize(), 1500);
     const onWinResize = () => map.resize();
     window.addEventListener("resize", onWinResize);
+    // Re-fire resize when DPR changes (browser zoom in/out)
+    const mq = window.matchMedia(`(resolution: ${window.devicePixelRatio}dppx)`);
+    mq.addEventListener?.("change", onWinResize);
 
     // Click on empty map → fly there. Mapbox fires this after any non-marker click.
     map.on("click", (e) => {
@@ -116,7 +120,9 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
       clearTimeout(resizeTimer1);
       clearTimeout(resizeTimer2);
       clearTimeout(resizeTimer3);
+      clearTimeout(resizeTimer4);
       window.removeEventListener("resize", onWinResize);
+      mq.removeEventListener?.("change", onWinResize);
       map.remove();
       mapRef.current = null;
     };
@@ -220,8 +226,15 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
   const month = currentMonthName(today);
 
   return (
-    <main className="fixed inset-0 bg-cream">
-      <div ref={containerRef} className="absolute inset-0" />
+    <main
+      className="fixed left-0 top-0 bg-cream"
+      style={{ width: "100vw", height: "100vh" }}
+    >
+      <div
+        ref={containerRef}
+        className="absolute left-0 top-0"
+        style={{ width: "100vw", height: "100vh" }}
+      />
 
       {!MAPBOX_TOKEN && <NoTokenFallback blooms={activeBlooms} onSelect={setSelected} />}
 
