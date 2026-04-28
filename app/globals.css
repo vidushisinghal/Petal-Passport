@@ -84,13 +84,10 @@ body {
 
 /* Custom pin — GPU-composited for smooth pan/zoom */
 .petal-pin {
-  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   cursor: pointer;
-  will-change: transform;
-  transform: translate3d(0, 0, 0);
 }
 .petal-pin__bubble {
   width: 38px;

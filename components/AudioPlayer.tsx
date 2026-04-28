@@ -187,7 +187,7 @@ export default function AudioPlayer({ bloom, narrator }: Props) {
           {isLoading ? "Preparing story…" : "Listen to this story"}
         </p>
         <p className="mt-0.5 text-[12px] text-warm-gray">
-          Narrated by {narrator} · {estimateMinutes(bloom.story)}
+          A short story · {estimateMinutes(bloom.story)}
         </p>
 
         {/* Speed pills — always visible so the listener can choose before tapping play */}
