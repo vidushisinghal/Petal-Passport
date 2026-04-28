@@ -39,9 +39,10 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
       container: containerRef.current,
       style: "mapbox://styles/mapbox/outdoors-v12",
       projection: { name: "mercator" },
-      renderWorldCopies: false,  // don't repeat the world horizontally
-      center: [10, 25],
-      zoom: 1.6,
+      renderWorldCopies: false,
+      center: [0, 20],
+      zoom: 1.5,
+      maxBounds: [[-180, -85], [180, 85]],
       attributionControl: false,
       dragRotate: false,
       pitchWithRotate: false,
@@ -60,18 +61,6 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     // Re-fire resize when DPR changes (browser zoom in/out)
     const mq = window.matchMedia(`(resolution: ${window.devicePixelRatio}dppx)`);
     mq.addEventListener?.("change", onWinResize);
-
-    // Click on empty map → fly there. Mapbox fires this after any non-marker click.
-    map.on("click", (e) => {
-      map.flyTo({
-        center: [e.lngLat.lng, e.lngLat.lat],
-        zoom: Math.max(map.getZoom(), 2.8),
-        duration: 1400,
-        speed: 1.0,
-        curve: 1.42,
-        essential: true,
-      });
-    });
 
     map.on("load", () => {
       map.resize();
@@ -148,14 +137,6 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     };
 
     const addMarkers = () => {
-      // DIAG: print sizes as a flat string so it's visible without expanding
-      const canvas = map.getCanvas();
-      const cont = containerRef.current;
-      const rect = cont?.getBoundingClientRect();
-      console.log(
-        `[MAP] canvas=${canvas.width}x${canvas.height} cssCanvas=${canvas.style.width}x${canvas.style.height} container=${rect?.width}x${rect?.height} window=${window.innerWidth}x${window.innerHeight} dpr=${window.devicePixelRatio} zoom=${map.getZoom().toFixed(2)} proj=${map.getProjection().name}`
-      );
-
       activeBlooms.forEach((bloom) => {
         const info = getStatus(bloom, today);
         const el = document.createElement("div");
@@ -199,10 +180,6 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
           .setLngLat([bloom.lng, bloom.lat])
           .addTo(map);
         markers.push(marker);
-
-        // DIAG: log expected pixel position vs marker's actual positioning
-        const point = map.project([bloom.lng, bloom.lat]);
-        console.log(`[PIN] ${bloom.id.padEnd(28)} lng=${bloom.lng} lat=${bloom.lat} → px=(${Math.round(point.x)},${Math.round(point.y)}) elTransform="${el.style.transform || "<none>"}"`);
       });
     };
 
