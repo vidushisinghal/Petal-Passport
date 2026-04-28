@@ -142,17 +142,13 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     };
 
     const addMarkers = () => {
-      // DIAG: dump map size + projection so we can compare to actual marker positions
+      // DIAG: print sizes as a flat string so it's visible without expanding
       const canvas = map.getCanvas();
-      console.log("[MAP]", {
-        canvasW: canvas.width,
-        canvasH: canvas.height,
-        cssW: canvas.style.width,
-        cssH: canvas.style.height,
-        zoom: map.getZoom(),
-        projection: map.getProjection().name,
-        center: map.getCenter().toArray(),
-      });
+      const cont = containerRef.current;
+      const rect = cont?.getBoundingClientRect();
+      console.log(
+        `[MAP] canvas=${canvas.width}x${canvas.height} cssCanvas=${canvas.style.width}x${canvas.style.height} container=${rect?.width}x${rect?.height} window=${window.innerWidth}x${window.innerHeight} dpr=${window.devicePixelRatio} zoom=${map.getZoom().toFixed(2)} proj=${map.getProjection().name}`
+      );
 
       activeBlooms.forEach((bloom) => {
         const info = getStatus(bloom, today);
