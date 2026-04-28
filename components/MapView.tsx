@@ -38,9 +38,10 @@ export default function MapView({ blooms }: { blooms: Bloom[] }) {
     const map = new mapboxgl.Map({
       container: containerRef.current,
       style: "mapbox://styles/mapbox/outdoors-v12",
-      projection: { name: "globe" },
-      center: [30, 20],
-      zoom: 1.4,
+      projection: { name: "mercator" },
+      renderWorldCopies: false,  // don't repeat the world horizontally
+      center: [10, 25],
+      zoom: 1.6,
       attributionControl: false,
       dragRotate: false,
       pitchWithRotate: false,
